@@ -1,0 +1,270 @@
+1
+Khi muốn lấy được một điện áp nhỏ từ điện áp một chiều lớn hơn thì người ta cần làm gì ?
+Select one:
+a. mắc thêm một cuộn dây nối tiếp với đoạn mạch ban đầu
+b. mắc thêm một tụ điện nối tiếp với đoạn mạch ban đầu
+c. mắc thêm một biến áp song song với đoạn mạch ban đầu
+d. mắc thêm một điện trở nối tiếp với đoạn mạch ban đầu
+2
+Linh kiện nào dưới đây là linh kiện điều khiển được ?
+Select one:
+a. FET, BJT, diac
+b. transistor, diac, triac
+c. transistor, SCR, triac
+d. BJT, FET và diode
+3
+Trong mạch điện tử,  linh kiện nào sau đây có thể được sử dụng để chia nhỏ điện áp xoay chiều ?
+Select one or more:
+a. Điện trở
+b. cuộn dây
+c. Tụ điện
+d. Diode
+4
+Hãy cho biết thông số cơ bản của tụ điện
+Select one:
+a. giá trị điện dung, dung sai, công suất tiêu tán, hệ số nhiệt
+b. giá trị điện dung, công suất tiêu tán, điện áp chịu đựng, dung sai
+c. giá trị điện dung, dung sai, điện áp mở, dòng thuận cực đại
+d. giá trị điện dung, dung sai, điện áp chịu đựng VDC, dải nhiệt độ làm việc
+5
+Transistor có 3 chế độ hoạt động cơ bản là ........
+Select one:
+a. ngắt, dẫn và đánh thủng
+b. ngắt, tích cực và dẫn bão hòa
+c. thuận, ngược và tích cực
+d. thuận, ngược và đánh thủng
+6
+Mạch khuếch đại collector chung có đặc điểm nào sau đây?
+Select one or more:
+a. trở kháng vào thấp
+b. trở kháng vào cao
+c. trở kháng ra cao
+d. trở kháng ra thấp
+7
+Mạch khuếch đại đơn nên được phân cực DC sao cho điểm làm việc tĩnh nằm ở đâu?
+                                    
+Select one or more:
+a. giữa đường tải tĩnh
+b. giữa miền tích cực
+c. Trong miền ngắt
+d. trong miền bão hoà
+e. gần cuối/đầu đường tải tĩn
+9
+Trong mạch khuếch đại, biến áp thường có vai trò gì ?
+Select one or more:
+a. phối hợp trở kháng
+b. tăng hiệu suất của mạch
+c. cách ly thành phần một chiều
+d. cách ly thành phần xoay chiều
+10
+Mạch khuếch đại Cascode là mạch ghép trực tiếp của các mạch nào ?
+Select one:
+a. Emito chung và Bazo chung
+b. Bazo chung và Emito chung
+c. 2 mạch Emito chung
+d. 2 mạch Colecto chung
+11
+Khi muốn transistor BJT làm việc như một phần tử khuếch đại đơn người ta thường phân cực cho nó để điểm làm việc tĩnh nằm ở vị trí nào trên đường tải tĩnh ?
+Select one:
+a. nằm ở vùng ngắt
+b. nằm ở vùng bão hòa
+c. nằm giữa vùng tích cực
+12
+Biểu thức dưới đây mô tả hàm truyền đạt của loại linh kiện điện tử nào?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+Select one or more:
+a. D-MOSFET
+b. BJT
+c. JFET
+d. E-MOSFET
+13
+Sơ đồ phân cực cho JFET phải đảm bảo điều kiện gì ?
+Select one:
+a. các chuyển tiếp P-N phân cực ngược và hạt dẫn di chuyển từ D sang S
+b. các chuyển tiếp P-N phân cực thuận và hạt dẫn di chuyển từ S sang D
+c. các chuyển tiếp P-N phân cực thuận và hạt dẫn di chuyển từ D sang S
+d. các chuyển tiếp P-N phân cực ngược và hạt dẫn di chuyển từ S sang D
+14
+Hãy cho biết khi đặt điện áp VGS tăng dần về phía dương thì kênh dẫn trong JFET kênh P thay đổi như thế nào?
+       
+Select one:
+a. hẹp về phía S
+b. rộng dần về phía D
+c. không thay đổi độ rộng
+d. hẹp dần về phía D
+15
+Mối quan hệ giữa các dòng điện trong JFET và D-MOSFET được thể hiện như thế nào?
+Select one or more:
+a.
+I
+G
+=0
+
+
+b.
+I
+G
+=β
+I
+D
+
+
+c.
+I
+S
+=
+I
+D
+
+
+d.
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+
+e.
+I
+D
+=
+I
+DSS
+(1−
+V
+GS
+V
+P
+)
+2
+16
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+mạch khuếch đại hoạt động ở chế độ B thì tín hiệu đầu ra có dạng nào ?
+Select one:
+a.
+b.
+c.
+d.
+17
+Một mạch khuếch đại đẩy kéo chế độ B có thể đạt hiệu suất lớn nhất khi nào?
+Select one:
+a. Tín hiệu ra lớn nhất mà không bị méo dạng
+b. Transistor tiêu thụ công suất nhỏ nhất
+c. Tín hiệu vào lớn nhất
+d. Tín hiệu ra lớn nhất
+18
+Trong mạch khuếch đại công suất, công suất xoay chiều trên tải được xác định theo công thức nào?
+Select one:
+a.
+P
+ac
+=
+V
+cc
+I
+CQ
+
+b.
+P
+ac
+=
+V
+2
+ce(p−p)
+8
+R
+L
+
+
+c.
+P
+ac
+=
+2
+V
+cc
+I
+c(p)
+π
+
+d.
+P
+ac
+=
+V
+ce(p−p)
+I
+c(p−p)
+2
+19
+Một mạch khuếch đại đẩy kéo chế độ B có công suất tiêu thụ nguồn một chiều được xác định theo công thức nào?
+Select one:
+a.
+P
+dc
+=
+V
+cc
+I
+CQ
+
+b.
+P
+dc
+=
+2
+V
+cc
+I
+c(p)
+π
+
+c.
+P
+dc
+=
+2
+V
+cc
+I
+c(avg)
+π
+
+
+d.
+P
+dc
+=
+V
+cc
+I
+c(p)
+π
+20
+Cho mạch điện như hình vẽ sau đây. Hãy cho biết đây là mạch gì ?
+Select one:
+a. Mạch khuếch đại công suất đẩy kéo
+b. Mạch khuếch đại công suất Cascode
+c. Mạch khuếch đại công suất  Darlington
+d. Mạch khuếch đại đơn

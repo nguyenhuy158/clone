@@ -1,0 +1,163 @@
+2
+Hãy cho biết hình dưới đây biểu diễn đặc tuyến truyền đạt của loại linh kiện nào?
+  
+Select one:
+a. E-MOSFET
+b. D-MOSFET
+c. BJT 
+d. JFET
+3
+Chọn đáp án ĐÚNG NHẤT
+Khi cần chia dòng / điện áp xoay chiều người ta có thể sử dụng loại linh kiện nào ?
+Select one:
+a. điện trở
+b. tụ điện
+c. biến áp
+d. điện trở, tụ điện, cuộn dây, biến áp
+e. cuộn dây
+4
+JFET có chế độ làm việc tương tự với linh kiện nào sau đây ?
+Select one:
+a. Triac
+b. DMOSFET
+c. Diode
+d. EMOSFET
+5
+Tác dụng chính của điện trở trong mạch điện là gì ?
+Select one:
+a. tích / phóng năng lượng từ trường
+b. ngăn cản sự lưu thông của dòng điện để xác định mức dòng và áp trong mạch
+c. đóng / mở dòng điện trong mạch
+d. tích / phóng điện tích
+6
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+Select one:
+a. Emitter chung
+b. Collector chung
+c. Base chung
+d. mạch phân áp
+7
+Hệ số khuếch đại dòng điện của mạch  khuếch đại Darlington được tính theo công thức nào dưới đây?
+Select one:
+a.
+β
+2
+β
+1
+
+
+b.
+β
+1
+β
+2
+
+
+
+c.
+β
+1
+β
+2
+
+
+d.
+β
+1
++
+β
+2
+8
+Hãy cho biết mạch dưới đây là mạch ghép kiểu gì?
+Select one:
+a. Darlington
+b. Emito chung và Bazo chung
+c. Cascode
+d. Bazo chung và Emito chung
+9
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+Select one:
+a. Collector chung
+b. mạch tự phân cực
+c. Emitter chung
+d. Base chung
+10
+Chọn phát biểu ĐÚNG NHẤT trong các phát biểu sau: Khuếch đại là một quá trình ........
+Select one:
+a. làm biến đổi công suất của tín hiệu.
+b. tăng cường năng lượng cho tín hiệu.
+c. làm tín hiệu mạnh lên.
+d. biến đổi năng lượng có điều khiển.
+11
+Hình dưới đây biểu thị trạng thái hoạt động của một Transistor BJT, hãy cho biết BJT này đang hoạt động như phần tử nào ?
+Select one:
+a. chỉnh lưu
+b. khuếch đại
+c. khóa điện tử đóng
+d. khóa điện tử mở
+12
+Transistor BJT hoạt động như một khóa điện tử đóng khi trạng thái phân cực của chuyển tiếp emito và chuyển tiếp colecto như thế nào ?
+Select one:
+a. thuận / thuận
+b. ngược / ngược
+c. thuận / ngược
+d. ngược / thuận
+13
+Ưu điểm chính của BJT so với FET là gì ?
+Select one:
+a. hệ số khuếch đại lớn
+b. độ ổn định nhiệt tốt
+c. dải tần rộng
+d. trở kháng vào lớn
+14
+Linh kiện nào sau đây chỉ hoạt động ở chế độ nghèo hạt dẫn?
+       
+Select one or more:
+a. D-MOSFET
+b. JFET
+c. BJT
+d. E-MOSFET
+15
+Dòng điện được tạo ra trong FET do hạt dẫn loại nào tạo nên ?
+Select one:
+a. điện tử
+b. điện tử và lỗ trống
+c. lỗ trống
+d. điện tử hoặc lỗ trống
+16
+Cho mạch điện như hình vẽ sau đây. Hãy cho biết đây là mạch gì ?
+Select one:
+a. Mạch khuếch đại công suất đẩy kéo
+b. Mạch khuếch đại công suất  Darlington
+c. Mạch khuếch đại công suất Cascode
+d. Mạch khuếch đại đơn
+17
+Hiệu suất cực đại của mạch khuếch đại công suất chế độ A với tải là điện trở là bao nhiêu ?
+Select one:
+a. 25 %
+b. 78,5 %
+c. 50 %
+d. 60 %
+18
+Transistor làm việc ở chế độ C thì khi chưa đưa tín hiệu vào nó có tiêu thụ công suất hay không ? tại sao ?
+Select one:
+a. không vì điểm làm việc tĩnh Q nằm trong vùng ngắt, tức là dòng tĩnh lớn hơn 0.
+b. có vì điểm làm việc tĩnh Q nằm giữa đường tải tĩnh, tức là dòng tĩnh lớn.
+c. có vì điểm làm việc tĩnh Q nằm gần vùng ngắt, tức là dòng tĩnh lớn hơn 0.
+d. không vì điểm làm việc tĩnh Q nằm sâu trong vùng ngắt, tức là dòng tĩnh bằng 0.
+19
+Hiệu suất cực đại của mạch khuếch đại công suất chế độ C khoảng bao nhiêu ?
+Select one:
+a. 80 %
+b. 50 %
+c. 60 %
+d. 25 %
+20
+Một mạch khuếch đại đẩy kéo chế độ B có hiệu suất lớn nhất là bao nhiêu?
+Select one:
+a. 50%
+b. 25%
+c. 100%
+d. 78,5%

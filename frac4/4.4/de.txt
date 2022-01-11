@@ -1,0 +1,177 @@
+1
+Trong mạch điện tử, hồi tiếp dương sẽ làm mạch .... 
+Select one:
+a. tăng hệ số khuếch đại
+b. giảm nhiễu trong mạch
+c. giảm độ ổn định điểm làm việc
+d. giảm hệ số khuếch đại
+2
+Dòng  điện có tần số càng thấp thì  ... qua cuộn dây:
+Select one:
+A. càng khó
+B. càng dễ
+C. không thay đổi
+3
+Cho một nguồn dòng điện I [A] chạy qua điện trở R, để lấy ra được dòng điện có giá trị là I/3 thì cần làm gì ?
+Select one:
+a. mắc nối tiếp với điện trở R một điện trở có giá trị 2R, dòng cần lấy ra chính là dòng qua 2R
+b. mắc nối tiếp với điện trở R một điện trở có giá trị 2R, dòng cần lấy ra chính là dòng qua R
+c. mắc song song với điện trở một điện trở có giá trị 2R, dòng cần lấy ra chính là dòng qua 2R
+d. mắc song song với điện trở một điện trở có giá trị 2R, dòng cần lấy ra chính là dòng qua R
+4
+Người ta thường chế tạo điện trở có giá trị bao nhiêu ?
+Select one:
+a. với mọi giá trị theo yêu cầu
+b. theo chuẩn E6, E12, E24 ... với các giá trị xác định và bội số của chúng
+c. với các giá trị chuẩn 10, 150, 220, 330, 470, 680
+5
+Trong transistor loại PNP thành phần chủ yếu của dòng colecto là loại hạt cơ bản nào ?
+Select one:
+a. điện tử
+b. lỗ trống
+c. ion âm
+d. ion dương
+6
+Mạch dưới đây có hệ số khuếch đại thay đổi như thế nào so với khi không có tải?
+Select one:
+a. Không thay đổi
+b. Không xác định được
+c. Giảm
+d. Tăng
+7
+Các mạch khuếch đại bán dẫn ghép trực tiếp có đặc điểm gì?
+Select one or more:
+a. Chế độ một chiều của các mạch không ảnh hưởng đến nhau
+b. Chế độ một chiều của các mạch có ảnh hưởng đến nhau
+c. Không làm suy hao tín hiệu
+d. Làm suy hao tín hiệu
+8
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+Select one:
+a. Source chung
+b. Drain chung
+c. Base chung
+d. Collector chung
+9
+Trong mạch khuếch đại bazo chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+Select one:
+a. colecto và bazo
+b. bazo và emito
+c. bazo và colecto
+d. emito và colecto
+10
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+Select one:
+a. mạch khuếch đại mắc kiểu bazo chung
+b. mạch khuếch đại mắc kiểu nguồn chung
+c. mạch khuếch đại mắc kiểu colecto chung
+d. mạch khuếch đại mắc kiểu emito chung
+11
+Khi BJT thuận (PNP) dẫn dòng thì loại hạt dẫn chính tạo nên dòng điện IC là loại hạt dẫn nào ?
+Select one:
+a. điện tử
+b. lỗ trống
+c. có thể là điện tử nhưng cũng có thể là lỗ trống
+d. cả điện tử và lỗ trống
+12
+Khi FET dẫn dòng thì hạt dẫn sẽ xuất phát từ ...... đến .........
+Select one:
+a. cực nguồn ... cực máng dưới sự điều khiển của điện áp VGS
+b. cực nguồn ...... cực cửa dưới sự điều khiển của điện áp VDS
+c. cực cửa ..... cực máng dưới sự điều khiển của điện áp VSD
+d. cực máng ..... cực nguồn dưới sự điều khiển của điện áp VGS
+13
+Trong mạch điện tử, các linh kiện nào sau đây có thể sử dụng để khuếch đại tín hiệu ?
+Select one:
+a. Diode
+b. Transistor
+c. Tụ điện
+d. Điện trở
+14
+Linh kiện nào sau đây chỉ hoạt động ở chế độ giàu hạt dẫn?
+       
+Select one or more:
+a. JFET
+b. BJT
+c. E-MOSFET
+d. D-MOSFET
+15
+Hãy cho biết hình dưới đây biểu diễn cấu tạo của linh kiện nào ?
+Select one:
+a. DMOSFET
+b. JFET
+c. SCR
+d. EMOSFET
+16
+Trong mạch khuếch đại công suất, công suất xoay chiều trên tải được xác định theo công thức nào?
+Select one:
+a.
+P
+ac
+=
+2
+V
+cc
+I
+c(p)
+π
+
+b.
+P
+ac
+=
+V
+cc
+I
+CQ
+
+c.
+P
+ac
+=
+V
+ce(rms)
+I
+c(rms)
+
+d.
+P
+ac
+=
+V
+ce(p)
+I
+c(p)
+17
+Một mạch khuếch đại đơn tải cuộn cảm có hiệu suất lớn nhất là bao nhiêu?
+Select one:
+a. 78,5%
+b. 100%
+c. 25%
+d. 50%
+18
+Transistor làm việc ở chế độ nào thì nó vẫn tiêu thụ dòng lớn khi chưa có tín hiệu vào ?
+Select one:
+a. chế độ B
+b. chế độ AB
+c. chế độ A
+d. chế độ C
+19
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+Nếu tín hiệu ra có dạng:
+
+thì mạch khuếch đại hoạt động ở chế độ nào ?
+Select one:
+a. C
+b. B
+c. A
+d. AB
+20
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+Select one:
+a. mạch khuếch đại mắc kiểu colecto chung
+b. mạch khuếch đại mắc kiểu bazo chung
+c. mạch ghép tầng kiểu Darlington
+d. mạch ghép tầng kiểu Cascode

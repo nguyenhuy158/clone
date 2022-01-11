@@ -1,0 +1,149 @@
+1
+Mạch khuếch đại emito chung có đặc điểm nào sau đây?
+Select one or more:
+a. trở kháng vào cao
+b. trở kháng ra thấp
+c. trở kháng ra cao
+d. trở kháng vào thấp
+2
+Hình dưới đây biểu thị trạng thái hoạt động của một Transistor BJT, hãy cho biết BJT này đang hoạt động như phần tử nào ?
+Select one:
+a. khóa điện tử mở
+b. khóa điện tử đóng
+c. chỉnh lưu
+d. khuếch đại
+3
+Hình dưới đây biểu diễn điều gì?
+Select one:
+a. đặc tuyến truyền đạt và họ đặc tuyến ra của D-MOSFET
+b. họ đặc tuyến truyền đạt và họ đặc tuyến ra của JFET
+c. đặc tuyến truyền đạt và họ đặc tuyến ra của E-MOSFET
+d. họ đặc tuyến vào và đặc tuyến truyền đạt của D-MOSFET
+4
+Hình dưới đây biểu diễn điều gì?
+Select one:
+a. họ đặc tuyến truyền đạt và họ đặc tuyến ra của E-MOSFET
+b. đặc tuyến truyền đạt và họ đặc tuyến ra của D-MOSFET
+c. họ đặc tuyến vào và đặc tuyến truyền đạt của D-MOSFET
+d. đặc tuyến truyền đạt và họ đặc tuyến ra của JFET
+6
+Linh kiện nào sau đây có thể làm việc ở cả hai chế độ nghèo hạt dẫn và giàu hạt dẫn ?
+Select one:
+a. JFET
+b. Diode
+c. DMOSFET
+d. EMOSFET
+7
+Biểu thức dưới đây mô tả hàm truyền đạt của loại linh kiện điện tử nào?
+I
+C
+=β
+I
+B
+Select one or more:
+a. BJT
+b. D-MOSFET
+c. JFET
+d. E-MOSFET
+8
+Khi muốn transistor BJT làm việc như một phần tử khuếch đại đơn người ta thường phân cực cho nó để điểm làm việc tĩnh nằm ở vị trí nào trên đường tải tĩnh ?
+Select one:
+a. nằm ở vùng bão hòa
+b. nằm ở vùng ngắt
+c. nằm giữa vùng tích cực
+9
+Trong mạch khuếch đại colecto chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+Select one:
+a. emito và colecto
+b. bazo và emito
+c. bazo và colecto
+d. colecto và bazo
+10
+Hãy cho biết mạch dưới đây là mạch khuếch đại ghép tầng kiểu gì?
+Select one:
+a. Darlington
+b. Cascode
+c. đẩy kéo
+d. dùng tụ điện
+11
+Hãy cho biết mạch dưới đây gọi là mạch gì?
+Select one:
+a. Cascode
+b. Khuếch đại đẩy kéo
+c. Darlington
+d. khuếch đại vi sai
+12
+Hãy cho biết mạch dưới đây là mạch khuếch đại ghép tầng kiểu gì?
+Select one:
+a. đẩy kéo
+b. trực tiếp
+c. Cascode
+d. dùng tụ điện
+13
+Transistor thường được sử dụng để làm gì ?
+Select one or more:
+a. Tích trữ năng lượng điện
+b. Cổng logic
+c. Khoá điện tử
+d. Phần tử khuếch đại
+e. Ổn áp
+14
+Khi cần thiết kế mạch khuếch đại có công suất lớn, tần số cao, người ta nên chọn linh kiện nào sau đây ?
+Select one:
+a. diode
+b. SCR
+c. FET
+d. BJT
+15
+Hiện tượng ngắt kênh dẫn trong FET xảy ra khi nào ?
+Select one:
+a. dòng cực máng bão hòa khi điện áp 
+V
+GS
+=
+V
+P
+
+b. hở mạch cực cửa
+c. dòng cực cửa bằng 0
+d. dòng cực máng biến mất (bằng 0) khi điện áp 
+V
+GS
+=
+V
+P
+16
+Hãy cho biết sơ đồ tương đương AC tín hiệu nhỏ, tần số thấp dưới đây được sử dụng cho kiểu mắc transistor nào?
+                                    
+Select one or more:
+a. CS
+b. CD
+c. CG
+17
+Mạch khuếch đại BJT thường được mắc kiểu emito chung vì  .........
+Select one:
+a. tín hiệu ra đồng pha với tín hiệu vào.
+b. tín hiệu ra đảo pha so với tín hiệu đầu vào.
+c. khuếch đại cả tín hiệu dòng và tín hiệu áp.
+d. khuếch đại áp mà không khuếch đại dòng.
+e. khuếch đại dòng mà không khuếch đáp áp.
+18
+Transistor hiệu ứng trường (FET) là linh kiện loại nào và được điều khiển bằng gì ?
+Select one:
+a. linh kiện tích cực, điều khiển bằng dòng điện
+b. linh kiện tích cực, điều khiển bằng điện áp
+c. linh kiện thụ động, không điều khiển được
+d. linh kiện thụ động, điều khiển bằng dòng
+19
+Pha của tín hiệu điện áp vào và tín hiệu điện áp ra của sơ đồ mắc nào đồng pha nhau?
+Select one or more:
+a. Emitter chung
+b. Base chung
+c. Collector chung
+20
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+Select one:
+a. mạch khuếch đại mắc kiểu bazo chung
+b. mạch khuếch đại mắc kiểu emito chung
+c. mạch khuếch đại mắc kiểu nguồn chung
+d. mạch khuếch đại mắc kiểu colecto chung

@@ -1,0 +1,239 @@
+2
+Một biến áp có tỉ số vòng dây là 10:1 ,giả sử dòng điện và điện áp đầu vào là 1 A và 220 VAC vậy dòng điện và điện áp đầu ra có giá trị bao nhiêu ?
+Select one:
+A. 10 A và 220 VAC.
+B. 1 A và 220 VAC
+C. 10 A và 22 VAC.
+D. 1 A và 22 VAC.
+3
+Một biến áp có tỉ số vòng dây là 10:1. Nếu cuộn thứ cấp nối với tải 8 Ohm thì điện trở phản ánh về cuộn sơ cấp là bao nhiêu ?
+Select one:
+a. 8 kOhm
+b. 8 Ohm
+c. 800 Ohm
+d. 80 Ohm
+4
+Linh kiện nào sau đây chỉ làm việc ở chế độ giàu hạt dẫn ?
+Select one:
+a. Diode
+b. JFET
+c. DMOSFET
+d. EMOSFET
+5
+Hãy cho biết hình dưới đây biểu diễn đặc tuyến Von-Ampe của linh kiện nào?
+Select one:
+a. BJT
+b. diode chỉnh lưu
+c. JFET
+d. Diode Zener
+6
+Khi phân tích mạch khuếch đại ở chế độ AC cần làm gì?
+
+                                    
+Select one or more:
+a. nối nguồn DC với đất
+b. hở mạch nguồn DC
+c. ngắn mạch tụ điện
+d. sử dụng sơ đồ tương đương AC của transistor
+e. hở mạch tụ điện
+f. sử dụng sơ đồ tương đương DC của transistor
+7
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+Select one:
+a. Lặp Emitter
+b. Base chung
+c. mạch phân dòng cố định
+d. Emitter chung
+8
+Hãy cho biết nếu BJT được mắc theo kiểu Colecto chung thì đưa tín hiệu vào và lấy tín hiệu ra như thế nào ?
+Select one:
+a. tín hiệu vào giữa B và E; lấy ra giữa C và E
+b. tín hiệu vào giữa B và C; lấy ra giữa E và C
+c. tín hiệu vào giữa C và E; lấy ra giữa C và B
+d. tín hiệu vào giữa C và E; lấy ra giữa B và E
+9
+Một mạch khuếch đại nhiều tầng được mô tả như hình dưới đây. Hãy cho biết hệ số khuếch đại của toàn mạch được tính theo công thức nào?
+Select one:
+a.
+K
+1
+×
+K
+n
+
+b.
+K
+1
++
+K
+2
++...+
+K
+n
+
+c. K_n
+d.
+K
+1
+×
+K
+2
+×...×
+K
+n
+10
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+Select one:
+a. mạch ghép tầng kiểu biến áp
+b. mạch ghép tầng trực tiếp
+c. mạch ghép tầng kiểu Cascode
+d. mạch ghép tầng RC
+11
+Transistor BJT hoạt động như một khóa điện tử mở khi trạng thái phân cực của chuyển tiếp emito và chuyển tiếp colecto như thế nào ?
+Select one:
+a. ngược / ngược
+b. ngược / thuận
+c. thuận / thuận
+d. thuận / ngược
+12
+Dòng điện trong transistor BJT do loại hạt dẫn nào tạo nên ?
+Select one:
+a. điện tử và lỗ trống
+b. điện tử hoặc lỗ trống
+c. lỗ trống
+d. điện tử
+13
+Với BJT, hệ số khuếch đại một chiều β và hệ số truyền đạt α có quan hệ thông qua biểu thức nào ?
+Select one:
+a.
+b.
+c.
+d.
+14
+Ở chế độ khuếch đại, quan hệ giữa các dòng điện trong BJT được biểu diễn qua công thức nào ?
+Select one or more:
+a.
+I
+C
+=
+I
+E
++
+I
+B
+
+
+b.
+I
+C
+=β
+I
+B
+
+c.
+I
+C
+=α
+I
+E
+
+d.
+I
+E
+=
+I
+B
++
+I
+C
+
+e.
+I
+E
+=β
+I
+B
+15
+Transistor BJT là linh kiện tích cực được điều khiển bằng ...... còn FET được điều khiển bằng .........
+
+           
+Select one:
+a. điện áp ........ điện áp
+b. dòng điện ...... điện áp
+c. dòng điện ........ dòng điện
+d. điện áp ........ dòng điện
+16
+Trong mạch khuếch đại đẩy kéo chế độ B nguồn dc cung cấp công suất Pdc và công suất trên tải là Pac, mỗi transistor tiêu thụ công suất xác định theo công thức nào?
+Select one:
+a.
+P
+T
+=
+P
+dc
+−
+P
+ac
+2
+
+b.
+P
+T
+=
+P
+dc
++
+P
+ac
+2
+
+c.
+P
+T
+=
+P
+ac
+−
+P
+dc
+2
+
+
+d.
+P
+T
+=
+P
+dc
+−
+P
+ac
+17
+Hiệu suất cực đại của mạch khuếch đại công suất chế độ B là bao nhiêu ?
+Select one:
+a. 25 %
+b. 78,5 %
+c. 60 %
+d. 50 %
+18
+Mạch khuếch đại công suất hoạt động ở chế độ nào có hiệu suất thấp nhất?
+Select one:
+a. chế độ C
+b. chế độ AB
+c. chế độ A
+d. chế độ B
+19
+Mạch khuếch đại công suất có điểm làm việc tĩnh ở vùng ngắt, tín hiệu đầu vào lớn thì gọi là hoạt động ở chế độ ....
+Select one:
+a. ngắt
+b. bão hòa
+c. A
+d. B
+20
+Mạch khuếch đại công suất hoạt động ở chế độ nào để có hiệu suất cao nhất ?
+Select one:
+a. AB
+b. A
+c. C
+d. B

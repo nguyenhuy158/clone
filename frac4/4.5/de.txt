@@ -1,0 +1,129 @@
+1
+Chọn phát biểu sai trong các phát biểu sau:
+Tụ điện được sử dụng trong các mạch .............
+Select one:
+a. san phẳng điện áp cho mạch nguồn
+b. mạch lọc tần số
+c. mạch tạo dao động
+d. biến đổi giá trị dòng điện, điện áp một chiều
+2
+Khi diode chỉnh lưu bị phân cực như thế nào thì nó tương đương như một khóa điện tử đóng ?
+Select one:
+a. phân cực thuận
+b. không cần phân cực
+c. phân cực ngược
+3
+Điện trở thuần có trở kháng tỉ lệ như thế nào với tần số của dòng điện qua nó ?
+Select one:
+a. tỉ lệ thuận
+b. không phụ thuộc
+c. tỉ lệ nghịch
+5
+Trong các linh kiện điện tử sau đây, loại nào có trở kháng phụ thuộc vào tần số ?
+Select one:
+a. tụ điện, điện trở, diode
+b. cuộn dây, tụ điện, transistor
+c. cuộn dây, biến áp, điện trở
+d. cuộn dây, tụ điện, transistor, điện trở
+6
+Trong mạch khuếch đại colecto chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+Select one:
+a. bazo và colecto
+b. emito và colecto
+c. colecto và bazo
+d. bazo và emito
+7
+Đặc tuyến thể hiện mối quan hệ giữa đại lượng đầu ra và đại lượng đầu vào gọi là đặc tuyến ....
+Select one:
+a. truyền đạt
+b. biên độ - tần số
+c. đường tải tĩnh
+d. đầu ra
+9
+Hãy cho biết mạch dưới đây là mạch khuếch đại ghép tầng kiểu gì?
+Select one:
+a. Cascode
+b. Darlington
+c. dùng tụ điện
+d. đẩy kéo
+10
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+Select one:
+a.  Sơ đồ tương đương AC của mạch Collector chung
+b. Sơ đồ tương đương AC của mạch CE
+c. Sơ đồ tương đương DC của mạch Emitter chung
+d. Sơ đồ tương đương AC của mạch CB
+11
+Chọn phát biểu sai trong các phát biểu sau:
+Ưu điểm của FET so với BJT là ......
+Select one:
+a. chuyển mạch tần số cao
+b. chế tạo đơn giản
+c. trở kháng vào lớn
+d. tiêu thụ năng lượng ít
+12
+Muốn transistor làm việc như một phần tử khuếch đại người ta thường chọn điểm làm việc tĩnh ở giữa đường tải tĩnh để làm gì ?
+Select one:
+a. tăng hệ số khuếch đại.
+b. tín hiệu ra có biên độ lớn nhất mà không bị méo dạng
+c. tăng khả năng ổn định nhiệt.
+d. tăng khả năng ổn định tần số.
+13
+Hình dưới đây biểu diễn điều gì?
+Select one:
+a. đặc tuyến truyền đạt và họ đặc tuyến ra của D-MOSFET
+b. đặc tuyến truyền đạt và họ đặc tuyến ra của E-MOSFET
+c. họ đặc tuyến vào và đặc tuyến truyền đạt của D-MOSFET
+d. họ đặc tuyến truyền đạt và họ đặc tuyến ra của JFET
+14
+Hình dưới đây mô tả một JFET đang hoạt động, giả sử điện áp VDS cố định hãy cho biết dòng cực máng ID có đặc điểm gì ?
+Select one:
+a. không điều khiển được
+b. được điều khiển bởi điện áp VGS
+c. có độ lớn không đổi
+d. có giá trị bằng dòng bão hòa
+15
+Hình vẽ dưới đây biểu diễn gì ?
+Select one:
+a. a) họ đặc tuyến vào và b) họ đặc tuyến ra của BJT.
+b. a) họ đặc tuyến ra và b) họ đặc tuyến vào của JFET
+c. a) họ đặc tuyến ra và b) họ đặc tuyến vào của diode
+d. a) họ đặc tuyến vào và b) họ đặc tuyến ra của D-MOSFET
+16
+Transistor làm việc ở chế độ B thì khi chưa đưa tín hiệu vào nó có tiêu thụ công suất hay không ? tại sao ?
+Select one:
+a. có vì điểm làm việc tĩnh Q nằm giữa đường tải tĩnh, tức là dòng tĩnh lớn.
+b. có vì điểm làm việc tĩnh Q nằm gần vùng ngắt, tức là dòng tĩnh lớn hơn 0.
+c. không vì điểm làm việc tĩnh Q nằm sâu trong vùng ngắt, tức là dòng tĩnh lớn.
+d. không vì điểm làm việc tĩnh Q nằm trong vùng ngắt, tức là dòng tĩnh bằng 0.
+17
+Mạch khuếch đại công suất có điểm làm việc tĩnh ở vùng ngắt, tín hiệu đầu vào rất  lớn thì gọi là hoạt động ở chế độ ....
+Select one:
+a. bão hòa
+b. A
+c. C
+d. ngắt
+18
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+mạch khuếch đại hoạt động ở chế độ AB thì tín hiệu đầu ra có dạng nào ?
+Select one:
+a.
+b.
+c.
+d.
+19
+Transistor làm việc ở chế độ A thì khi chưa đưa tín hiệu vào nó có tiêu thụ công suất hay không ? tại sao ?
+Select one:
+a. không vì điểm làm việc tĩnh Q nằm sâu trong vùng ngắt, tức là dòng tĩnh lớn.
+b. có vì điểm làm việc tĩnh Q nằm gần vùng ngắt, tức là dòng tĩnh lớn hơn 0.
+c. không vì điểm làm việc tĩnh Q nằm trong vùng ngắt, tức là dòng tĩnh bằng 0.
+d. có vì điểm làm việc tĩnh Q nằm giữa đường tải tĩnh, tức là dòng tĩnh lớn.
+20
+Một mạch khuếch đại đơn tải điện trở có hiệu suất lớn nhất là bao nhiêu?
+Select one:
+a. 78,5%
+b. 25%
+c. 100%
+d. 50%

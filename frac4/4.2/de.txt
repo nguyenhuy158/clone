@@ -1,0 +1,182 @@
+1
+Hình dưới đây mô tả cấu tạo của loại linh kiện nào ?
+Select one:
+a. JFET kênh N
+b. JFET kênh P
+c. DMOSFET kênh P
+d. Diode
+e. DMOSFET kênh N
+2
+Hãy đọc tên các linh kiện điện tử được biểu diễn trong hình sau theo thứ tự từ trái qua phải
+             
+Select one:
+a. cuộn dây, tụ gốm, điện trở film, tụ hóa, biến trở dây quấn
+b. điện trở carbon, tụ mica, điện trở SMD, tụ màng mỏng, biến trở
+c. điện trở than, tụ giấy, điện trở SMD, tụ film, biến trở
+d. tụ điện, tụ mica, điện trở film, tụ hóa, biến trở dây quấn
+3
+Hãy đọc tên các loại tụ điện trong hình dưới đây theo thứ tự từ trái qua phải.
+                   
+Select one:
+a. tụ mica, tụ polyeste và tụ hóa
+b. tụ gốm, tụ cácbon và tụ hóa
+c. tụ gốm, tụ mica và tụ giấy
+d. tụ mica, tụ hóa và tụ điện phân
+4
+Trong mạch điện tử, các linh kiện nào sau đây có thể được sử dụng để chỉnh lưu điện áp xoay chiều ?
+Select one or more:
+a. Diode
+b. BJT
+c. Điện trở
+d. FET
+e. Tụ điện
+5
+Cho điện trở có vòng màu như sau, hãy xác định giá trị của điện trở
+Select one:
+a. 47 KOhm 10%
+b. 470 KOhm 5%
+c. 470 Ohm 5%
+d. 470 Ohm 10%
+6
+Hãy cho biết sơ đồ tương đương AC tín hiệu nhỏ, tần số thấp dưới đây thường được sử dụng cho kiểu mắc transistor nào?
+                                    
+Select one or more:
+a. Collector chung
+b. Base chung
+c. Emitter chung
+7
+Hãy cho biết mạch dưới đây là mạch khuếch đại ghép tầng kiểu gì?
+Select one:
+a. trực tiếp
+b. dùng tụ điện
+c. Cascode
+d. đẩy kéo
+8
+Hãy cho biết trong sơ đồ mắc BJT theo kiểu Emito chung thì đưa tín hiệu vào và lấy tín hiệu ra như thế nào ?
+Select one:
+a. tín hiệu vào giữa B và C; lấy ra giữa C và E
+b. tín hiệu vào giữa B và E; lấy ra giữa C và E
+c. tín hiệu vào giữa C và E; lấy ra giữa B và E
+d. tín hiệu vào giữa E và B; lấy ra giữa C và B
+9
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+Select one:
+a. Sơ đồ tương đương AC của mạch cực cửa chung
+b.  Sơ đồ tương đương AC của mạch Collector chung
+c. Sơ đồ tương đương AC của mạch Drain chung
+d. Sơ đồ tương đương AC của mạch cực nguồn chung
+10
+Hãy cho biết trong sơ đồ mắc BJT theo kiểu Emito chung thì đưa tín hiệu vào và lấy tín hiệu ra như thế nào ?
+Select one:
+a. tín hiệu vào giữa B và C; lấy ra giữa C và E
+b. tín hiệu vào giữa C và E; lấy ra giữa B và E
+c. tín hiệu vào giữa C và E; lấy ra giữa B và E
+d. tín hiệu vào giữa B và E; lấy ra giữa C và E
+12
+Hãy cho biết biểu thức dưới đây biểu diễn cách tính thông số nào ?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+Select one:
+a. dòng cực máng của JFET
+b. dòng cực máng của MOSFET
+c. dòng cực máng của EMOSFET
+d. dòng cực máng của DMOSFET
+14
+Linh kiện nào sau đây có thể làm việc ở cả hai chế độ nghèo hạt dẫn và giàu hạt dẫn ?
+Select one:
+a. JFET
+b. EMOSFET
+c. Diode
+d. DMOSFET
+15
+Transistor thường được sử dụng trong các mạch nào sau đây?
+Select one or more:
+a. phân áp một chiều
+b. chỉnh lưu dòng điện xoay chiều
+c. khoá điện tử
+d. nam châm điện
+e. tích trữ điện tích
+f. khuếch đại 
+16
+Trong mạch khuếch đại bán dẫn, hệ số góc của đường tải động so với đường tải tĩnh như thế nào ?
+Select one:
+a. lớn hơn
+b. bằng nhau
+c. nhỏ hơn
+d. có thể bằng, nhỏ hơn hoặc lớn hơn
+17
+Hãy cho biết dạng điện áp vào và ra được cho trong hình dưới đây là của mạch nào ?
+Select one:
+a. mạch khuếch đại công suất chế độ A
+b. mạch khuếch đại công suất chế độ B
+c. mạch chỉnh lưu
+d. mạch chỉnh lưu hai nửa chu kỳ
+18
+Mạch khuếch đại công suất hoạt động ở chế độ nào thì có hiệu suất thấp nhất ?
+Select one:
+a. A
+b. C
+c. B
+d. AB
+19
+Trong mạch khuếch đại công suất, công suất xoay chiều trên tải được xác định theo công thức nào?
+Select one:
+a.
+P
+ac
+=
+V
+ce(p−p)
+I
+c(p−p)
+2
+
+b.
+P
+ac
+=
+2
+V
+cc
+I
+c(p)
+π
+
+c.
+P
+ac
+=
+V
+cc
+I
+CQ
+
+d.
+P
+ac
+=
+I
+2
+c(p)
+R
+L
+2
+20
+Mạch khuếch đại công suất hoạt động ở chế độ nào có hiệu suất cao nhất?
+Select one:
+a. chế độ B
+b. chế độ A
+c. chế độ AB
+d. chế độ C

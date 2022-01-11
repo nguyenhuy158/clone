@@ -1,0 +1,196 @@
+1
+Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết nó hoạt động như phần tử nào ?
+Select one:
+a. khóa điện tử mở
+b. khóa điện tử đóng
+c. khuếch đại
+d. chỉnh lưu
+2
+Chọn phát biểu đúng nhất trong các phát biểu sau:
+Transistor có thể hoạt động như các phần tử ........
+Select one:
+a. khóa điện tử, khuếch đại
+b. khuếch đại, ổn áp, khóa điện tử
+c. khuếch đại, ổn áp, ổn dòng
+d. chỉnh lưu, khuếch đại, khóa điện tử
+3
+Mạch khuếch đại Cascode là mạch ghép trực tiếp của các mạch nào ?
+Select one:
+a. Bazo chung và Emito chung
+b. 2 mạch Colecto chung
+c. Emito chung và Bazo chung
+d. 2 mạch Emito chung
+4
+Đặc tuyến thể hiện sự biến thiên của biên độ tín hiệu ra khi tần số của tín hiệu vào thay đổi gọi là đặc tuyến ....
+Select one:
+a. biên độ - tần số
+b. đường tải tĩnh
+c. truyền đạt
+d. đầu ra
+5
+Mạch khuếch đại đơn nên được phân cực DC sao cho điểm làm việc tĩnh nằm ở đâu?
+                                    
+Select one or more:
+a. trong miền bão hoà
+b. gần cuối/đầu đường tải tĩn
+c. giữa đường tải tĩnh
+d. Trong miền ngắt
+e. giữa miền tích cực
+6
+Chọn phát biểu ĐÚNG NHẤT trong các phát biểu sau: Khuếch đại là một quá trình ........
+Select one:
+a. tăng cường năng lượng cho tín hiệu.
+b. làm biến đổi công suất của tín hiệu.
+c. làm tín hiệu mạnh lên.
+d. biến đổi năng lượng có điều khiển.
+7
+Mối quan hệ giữa các dòng điện trong E-MOSFET được thể hiện như thế nào?
+Select one or more:
+a.
+I
+S
+=
+I
+D
+
+
+b.
+I
+G
+=β
+I
+D
+
+
+c.
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+
+d.
+I
+D
+=
+I
+DSS
+(1−
+V
+GS
+V
+P
+)
+2
+
+
+e.
+I
+G
+=0
+8
+Mạch khuếch đại sẽ tạo ra năng lượng trên tải có quy luật biến thiên theo ...
+Select one:
+a. nguồn cung cấp dc.
+b. không xác định được quy luật.
+c. nguồn tín hiệu ac.
+d. cả nguồn dc và nguồn ac
+9
+Chọn phát biểu SAI trong các phát biểu sau: Transistor BJT là linh kiện điện tử có đặc điểm ......
+Select one:
+a. là linh kiện không thể điều khiển được
+b. là linh kiện được điều khiển bằng dòng điện
+c. là linh kiện có 2 chuyển tiếp P-N
+d. là linh kiện có thể hoạt động như khóa điện tử hay khuếch đại tín hiệu
+10
+Chọn phát biểu ĐÚNG NHẤT trong các đáp án.
+Chế độ hoạt động của transistor BJT phụ thuộc vào điều gì sau đây ?
+Select one:
+a. điện áp nguồn cung cấp Vcc
+b. dòng điều khiển IB
+c. trạng thái phân cực của 2 chuyển tiếp P-N
+d. sơ đồ phân cực
+e. sơ đồ mắc
+11
+Khi cần thiết kế mạch khuếch đại có công suất nhỏ, tần số thấp, người ta nên chọn loại linh kiện nào sau đây ?
+Select one:
+a. UJT
+b. diode
+c. FET
+d. BJT
+12
+Trong mạch khuếch đại, biến áp thường có vai trò gì ?
+Select one or more:
+a. tăng hiệu suất của mạch
+b. cách ly thành phần một chiều
+c. phối hợp trở kháng
+d. cách ly thành phần xoay chiều
+13
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+Select one:
+a. Emitter chung
+b. Base chung
+c. Lặp Emitter
+d. mạch phân dòng cố định
+14
+Dòng điện được tạo ra trong FET do hạt dẫn loại nào tạo nên ?
+Select one:
+a. lỗ trống
+b. điện tử và lỗ trống
+c. điện tử
+d. điện tử hoặc lỗ trống
+15
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+Select one:
+a.  Sơ đồ tương đương AC của mạch Collector chung
+b. Sơ đồ tương đương DC của mạch Emitter chung
+c. Sơ đồ tương đương AC của mạch cực nguồn chung
+d. Sơ đồ tương đương AC của mạch cực cửa chung
+16
+Chọn phát biểu sai trong các phát biểu sau:
+Ưu điểm của FET so với BJT là ......
+Select one:
+a. tiêu thụ năng lượng ít
+b. trở kháng vào lớn
+c. chuyển mạch tần số cao
+d. chế tạo đơn giản
+17
+Mạch khuếch đại base chung có đặc điểm nào sau đây?
+Select one or more:
+a. hệ số khuếch đại dòng điện lớn (>> 1)
+b. hệ số khuếch đại điện áp lớn (>> 1)
+c. hệ số khuếch đại dòng điện nhỏ (~ 1)
+d. hệ số khuếch đại điện áp nhỏ (~ 1)
+18
+Transistor BJT là linh kiện tích cực được điều khiển bằng ...... còn FET được điều khiển bằng .........
+
+           
+Select one:
+a. điện áp ........ điện áp
+b. dòng điện ...... điện áp
+c. điện áp ........ dòng điện
+d. dòng điện ........ dòng điện
+19
+Khi BJT thuận (PNP) dẫn dòng thì loại hạt dẫn chính tạo nên dòng điện IC là loại hạt dẫn nào ?
+Select one:
+a. lỗ trống
+b. điện tử
+c. cả điện tử và lỗ trống
+d. có thể là điện tử nhưng cũng có thể là lỗ trống
+20
+Hình dưới đây biểu diễn điều gì?
+Select one:
+a. họ đặc tuyến truyền đạt và họ đặc tuyến ra của JFET
+b. đặc tuyến truyền đạt và họ đặc tuyến ra của D-MOSFET
+c. họ đặc tuyến vào và đặc tuyến truyền đạt của D-MOSFET
+d. đặc tuyến truyền đạt và họ đặc tuyến ra của E-MOSFET

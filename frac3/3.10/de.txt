@@ -1,0 +1,151 @@
+1
+Linh kiện nào sau đây chỉ hoạt động ở chế độ giàu hạt dẫn?
+       
+Select one or more:
+a. D-MOSFET
+b. BJT
+c. E-MOSFET
+d. JFET
+2
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+Select one:
+a. Sơ đồ tương đương DC của mạch Emitter chung
+b. Sơ đồ tương đương AC của mạch CE
+c. Sơ đồ tương đương AC của mạch CB
+d.  Sơ đồ tương đương AC của mạch Collector chung
+3
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+Select one:
+a. mạch khuếch đại mắc kiểu bazo chung
+b. mạch khuếch đại mắc kiểu nguồn chung
+c. mạch khuếch đại mắc kiểu colecto chung
+d. mạch khuếch đại mắc kiểu emito chung
+4
+Mạch khuếch đại collector chung có đặc điểm nào sau đây?
+Select one or more:
+a. trở kháng vào cao
+b. trở kháng ra thấp
+c. trở kháng ra cao
+d. trở kháng vào thấp
+5
+Transistor BJT hoạt động như phần tử khuếch đại nếu trạng thái phân cực của chuyển tiếp emito và chuyển tiếp colecto là như thế nào ?
+Select one:
+a. thuận / ngược
+b. thuận / thuận
+c. ngược / thuận
+d. ngược / ngược
+6
+Các mạch khuếch đại bán dẫn ghép trực tiếp có đặc điểm gì?
+Select one or more:
+a. Chế độ một chiều của các mạch không ảnh hưởng đến nhau
+b. Chế độ một chiều của các mạch có ảnh hưởng đến nhau
+c. Không làm suy hao tín hiệu
+d. Làm suy hao tín hiệu
+7
+Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết BJT này đang hoạt động như phần tử nào ?
+Select one:
+a. khóa điện tử mở
+b. khóa điện tử đóng
+c. chỉnh lưu
+d. khuếch đại
+9
+Hãy cho biết khi đặt điện áp VGS tăng dần về phía dương thì kênh dẫn trong JFET kênh P thay đổi như thế nào?
+       
+Select one:
+a. hẹp về phía S
+b. không thay đổi độ rộng
+c. rộng dần về phía D
+d. hẹp dần về phía D
+10
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+Select one:
+a. mạch khuếch đại mắc kiểu bazo chung
+b. mạch khuếch đại mắc kiểu emito chung
+c. mạch khuếch đại mắc kiểu colecto chung
+d. mạch khuếch đại mắc kiểu nguồn chung
+11
+Transistor BJT hoạt động như một khóa điện tử mở khi trạng thái phân cực của chuyển tiếp emito và chuyển tiếp colecto như thế nào ?
+Select one:
+a. ngược / ngược
+b. thuận / ngược
+c. ngược / thuận
+d. thuận / thuận
+12
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+Select one:
+a. Collector chung
+b. Base chung
+c. Drain chung
+d. Source chung
+13
+Pha của tín hiệu điện áp vào và tín hiệu điện áp ra của sơ đồ mắc nào đảo pha nhau?
+Select one:
+a. Collector chung
+b. Base chung
+c. Emitter chung
+14
+Ưu điểm chính của BJT so với FET là gì ?
+Select one:
+a. dải tần rộng
+b. hệ số khuếch đại lớn
+c. độ ổn định nhiệt tốt
+d. trở kháng vào lớn
+15
+Một mạch cấp nguồn cho transistor như hình dưới đây. Hãy cho biết khi đó sơ đồ tương đương của nó như thế nào?
+Select one:
+a.
+b.
+c. không sơ đồ nào đúng
+d.
+16
+Hãy cho biết trong sơ đồ mắc BJT theo kiểu Emito chung thì đưa tín hiệu vào và lấy tín hiệu ra như thế nào ?
+Select one:
+a. tín hiệu vào giữa C và E; lấy ra giữa B và E
+b. tín hiệu vào giữa B và C; lấy ra giữa C và E
+c. tín hiệu vào giữa B và E; lấy ra giữa C và E
+d. tín hiệu vào giữa C và E; lấy ra giữa B và E
+17
+Khi một JFET ở chế độ ngắt thì các lớp chuyển tiếp P-N sẽ như thế nào ?
+Select one:
+a. mở rộng hơn nhưng không chạm vào nhau
+b. biến mất
+c. thu hẹp lại
+d. phủ trùm lên nhau
+18
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+Select one:
+a. Sơ đồ tương đương DC của mạch Emitter chung
+b.  Sơ đồ tương đương AC của mạch Collector chung
+c. Sơ đồ tương đương AC của mạch CB
+d. Sơ đồ tương đương AC của mạch CE
+19
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+Select one:
+a. Collector chung
+b. Drain chung
+c. Base chung
+d. Source chung
+20
+Hãy cho biết biểu thức dưới đây biểu diễn cách tính thông số nào ?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+Select one:
+a. dòng cực máng của JFET
+b. dòng cực máng của MOSFET
+c. dòng cực máng của EMOSFET
+d. dòng cực máng của DMOSFET

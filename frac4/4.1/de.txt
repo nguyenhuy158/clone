@@ -1,0 +1,240 @@
+1
+Hãy cho biết biểu thức xác định trở kháng của tụ điện theo tần số của dòng điện qua nó.
+Select one:
+A. không phụ thuộc vào tần số
+B.
+X
+C
+=2πfC
+
+C.
+X
+C
+=
+1
+fC
+
+
+D.
+X
+C
+=
+1
+2πfC
+2
+Trong kỹ thuật điện tử, biến áp thường được sử dụng để làm gì ?
+Select one:
+a. biến đổi điện áp một chiều thành xoay chiều
+b. phối hợp trở kháng
+c. khuếch đại tín hiệu
+d. dẫn tín hiệu một chiều
+3
+Điện trở có cấu tạo được mô tả như trong hình dưới đây là loại nào ?
+Select one:
+a. điện trở film
+b. điện trở than
+c. điện trở dây quấn
+d. điện trở dán bề mặt
+6
+Trong mạch khuếch đại emito chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+Select one:
+a. colecto và bazo
+b. bazo và colecto
+c. emito và colecto
+d. bazo và emito
+7
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+Select one:
+a. mạch khuếch đại mắc kiểu bazo chung
+b. mạch khuếch đại mắc kiểu colecto chung
+c. mạch khuếch đại mắc kiểu nguồn chung
+d. mạch khuếch đại mắc kiểu emito chung
+8
+Mạch khuếch đại cần được cung cấp năng lượng bởi ........
+Select one:
+a. chỉ nguồn ac.
+b. chỉ nguồn dc
+c. nguồn dc và ac.
+d. không cần cung cấp năng lượng.
+9
+Mạch khuếch đại sẽ tạo ra năng lượng trên tải có quy luật biến thiên theo ...
+Select one:
+a. nguồn cung cấp dc.
+b. không xác định được quy luật.
+c. nguồn tín hiệu ac.
+d. cả nguồn dc và nguồn ac
+10
+Mạch khuếch đại vi sai khuếch đại gì?
+Select one:
+a. tổng hai tín hiệu đầu vào
+b. tích hai tín hiệu ở hai đầu vào
+c. hiệu hai tín hiệu ở hai đầu vào
+11
+Biểu thức dưới đây mô tả hàm truyền đạt của loại linh kiện điện tử nào?
+I
+D
+=
+I
+DSS
+(1−
+V
+GS
+V
+p
+)
+2
+Select one or more:
+a. JFET
+b. D-MOSFET
+c. E-MOSFET
+d. BJT
+12
+Một mạch cấp nguồn cho transistor như hình dưới đây. Hãy cho biết khi đó sơ đồ tương đương của nó như thế nào?
+Select one:
+a. không sơ đồ nào đúng
+b.
+c.
+d.
+13
+Hãy cho biết linh kiện có cấu tạo như hình vẽ dưới đây là loại linh kiện nào ?
+Select one:
+a. BJT loại P
+b. JFET kênh N
+c. BJT loại N
+d. JFET kênh P
+14
+Mối quan hệ giữa các dòng điện trong E-MOSFET được thể hiện như thế nào?
+Select one or more:
+a.
+I
+G
+=0
+
+
+b.
+I
+S
+=
+I
+D
+
+
+c.
+I
+G
+=β
+I
+D
+
+
+d.
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+
+e.
+I
+D
+=
+I
+DSS
+(1−
+V
+GS
+V
+P
+)
+2
+15
+Chọn phát biểu ĐÚNG NHẤT trong các đáp án.
+Chế độ hoạt động của transistor BJT phụ thuộc vào điều gì sau đây ?
+Select one:
+a. sơ đồ mắc
+b. dòng điều khiển IB
+c. trạng thái phân cực của 2 chuyển tiếp P-N
+d. sơ đồ phân cực
+e. điện áp nguồn cung cấp Vcc
+16
+Cho mạch điện như hình vẽ sau đây. Hãy cho biết đây là mạch gì ?
+Select one:
+a. Mạch khuếch đại công suất Cascode
+b. Mạch khuếch đại công suất  Darlington
+c. Mạch khuếch đại công suất đẩy kéo
+d. Mạch khuếch đại đơn
+17
+Trong mạch khuếch đại công suất, công suất xoay chiều trên tải được xác định theo công thức nào?
+Select one:
+a.
+P
+ac
+=
+V
+cc
+I
+CQ
+
+b.
+P
+ac
+=
+V
+ce(p)
+I
+c(p)
+2
+
+c.
+P
+ac
+=
+V
+2
+ce(p−p)
+2
+R
+L
+
+
+d.
+P
+ac
+=
+2
+V
+cc
+I
+c(p)
+π
+18
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+mạch khuếch đại hoạt động ở chế độ A thì tín hiệu đầu ra có dạng nào ?
+Select one:
+a.
+b.
+c.
+d.
+19
+Khi làm việc transistor luôn ở vùng tích cực thì mạch gọi là hoạt động ở chế độ nào ?
+Select one:
+a. chế độ B
+b. chế độ C
+c. chế độ A
+d. chế độ AB
+20
+Hiệu suất cực đại của mạch khuếch đại công suất chế độ A với tải là CUỘN CẢM là bao nhiêu ?
+Select one:
+a. 50 %
+b. 60 %
+c. 25 %
+d. 78,5 %

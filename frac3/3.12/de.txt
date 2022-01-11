@@ -1,0 +1,231 @@
+1
+Mạch emito chung có đặc điểm nào sau đây?
+Select one or more:
+a. hệ số khuếch đại dòng điện nhỏ (~ 1)
+b. hệ số khuếch đại điện áp lớn (>> 1)
+c. hệ số khuếch đại dòng điện lớn (>> 1)
+d. hệ số khuếch đại điện áp nhỏ (~ 1)
+2
+Mạch khuếch đại vi sai khuếch đại gì?
+Select one:
+a. tích hai tín hiệu ở hai đầu vào
+b. hiệu hai tín hiệu ở hai đầu vào
+c. tổng hai tín hiệu đầu vào
+3
+Hãy cho biết cách đưa tín hiệu vào và lấy tín hiệu ra trong sơ đồ mắc BJT kiểu Bazo chung
+Select one:
+a. tín hiệu vào giữa B và C; lấy ra giữa C và E
+b. tín hiệu vào giữa B và E; lấy ra giữa C và B
+c. tín hiệu vào giữa B và E; lấy ra giữa C và E
+d. tín hiệu vào giữa C và E; lấy ra giữa B và E
+4
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+Select one:
+a. mạch ghép tầng trực tiếp
+b. mạch ghép tầng kiểu Cascode
+c. mạch ghép tầng RC
+d. mạch ghép tầng kiểu biến áp
+5
+Giả sử thiết lập điện áp giữa D và S nhưng cực cửa để hở thì dòng điện vẫn có thể xuất hiện trong linh kiện nào sau đây ?
+Select one:
+a. JFET và EMOSFET
+b. DMOSFET và EMOSFET
+c. JFET và DMOSFET
+d. JFET và BJT
+6
+Trong mạch khuếch đại colecto chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+Select one:
+a. bazo và emito
+b. bazo và colecto
+c. colecto và bazo
+d. emito và colecto
+7
+Linh kiện nào sau đây chỉ hoạt động ở chế độ nghèo hạt dẫn?
+       
+Select one or more:
+a. BJT
+b. JFET
+c. D-MOSFET
+d. E-MOSFET
+8
+Hình dưới đây mô tả một JFET đang hoạt động, giả sử điện áp VDS cố định hãy cho biết dòng cực máng ID có đặc điểm gì ?
+Select one:
+a. không điều khiển được
+b. có độ lớn không đổi
+c. được điều khiển bởi điện áp VGS
+d. có giá trị bằng dòng bão hòa
+9
+Mối quan hệ giữa các dòng điện trong JFET và D-MOSFET được thể hiện như thế nào?
+Select one or more:
+a.
+I
+G
+=β
+I
+D
+
+
+b.
+I
+S
+=
+I
+D
+
+
+c.
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+
+d.
+I
+G
+=0
+
+
+e.
+I
+D
+=
+I
+DSS
+(1−
+V
+GS
+V
+P
+)
+2
+10
+Linh kiện nào sau đây được coi là khoá thường mở (normally OFF) khi chưa có điện áp điều khiển VGS?
+       
+Select one or more:
+a. BJT
+b. E-MOSFET
+c. D-MOSFET
+d. JFET
+12
+Hệ số khuếch đại dòng điện của mạch  khuếch đại Darlington được tính theo công thức nào dưới đây?
+Select one:
+a.
+β
+2
+β
+1
+
+
+b.
+β
+1
+β
+2
+
+
+c.
+β
+1
++
+β
+2
+
+
+d.
+β
+1
+β
+2
+13
+Mạch khuếch đại base chung có đặc điểm nào sau đây?
+Select one or more:
+a. trở kháng vào thấp
+b. trở kháng ra cao
+c. trở kháng ra thấp
+d. trở kháng vào cao
+14
+Hãy cho biết sơ đồ tương đương AC tín hiệu nhỏ, tần số thấp dưới đây thường được sử dụng cho kiểu mắc transistor nào?
+                                    
+Select one or more:
+a. Emitter chung
+b. Base chung
+c. Collector chung
+15
+Khi BJT dẫn dòng thì hạt dẫn xuất phát từ ..... đến ........
+Select one:
+a. cực emito ...... colecto
+b. cực colecto .... cực emito
+c. cực nguồn .... cực máng
+d. cực nguồn ....... cực cửa
+16
+Để E-MOSFET có cấu tạo như hình dưới đây dẫn dòng thì cần điều kiện nào?
+Select one or more:
+a.
+V
+GS
+>
+V
+th
+>0
+b.
+V
+DS
+>0
+
+c.
+V
+DS
+<
+V
+P
+
+d.
+V
+GS
+>0
+
+
+e.
+V
+GS
+<
+V
+th
+17
+Hình vẽ dưới đây biểu diễn gì ?
+Select one:
+a. a) họ đặc tuyến vào và b) họ đặc tuyến ra của BJT.
+b. a) họ đặc tuyến ra và b) họ đặc tuyến vào của JFET
+c. a) họ đặc tuyến ra và b) họ đặc tuyến vào của diode
+d. a) họ đặc tuyến vào và b) họ đặc tuyến ra của D-MOSFET
+18
+Hãy cho biết ý nghĩa của việc xác định vị trí của điểm làm việc tĩnh của transistor trên đường tải tĩnh ?
+Select one:
+a. để xác định chế độ làm việc của transistor
+b. để xác định hệ số khuếch đại một chiều
+c. để xác định độ ổn định nhiệt
+d. để xác định hệ số khuếch đại xoay chiều
+19
+Hình dưới đây mô tả đặc tuyến nào của mạch khuếch đại ?
+Select one:
+a. truyền đạt
+b. đầu ra
+c. biên độ - tần số
+d. đường tải tĩnh
+20
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+Select one:
+a. Sơ đồ tương đương AC của mạch cực cửa chung
+b.  Sơ đồ tương đương AC của mạch Collector chung
+c. Sơ đồ tương đương AC của mạch cực nguồn chung
+d. Sơ đồ tương đương AC của mạch Drain chung

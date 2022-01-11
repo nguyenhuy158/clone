@@ -1,0 +1,194 @@
+1
+Chỉnh lưu có điều khiển SCR có đặc điểm cấu tạo là gì ?
+Select one:
+a. có 2 chuyển tiếp P-N
+b. có 3 chuyển tiếp P-N
+c. có 4 chuyển tiếp P-N
+d. có 3 phiến bán dẫn
+2
+Hình dưới đây mô tả cấu tạo của loại linh kiện nào ?
+Select one:
+a. Diode
+b. DMOSFET kênh P
+c. DMOSFET kênh N
+d. JFET kênh N
+e. JFET kênh P
+3
+Thông số cơ bản của điện trở là những thông số nào ?
+Select one:
+a. giá trị điện trở, dung sai, dòng điện cực đại, công suất tiêu tán
+b. giá trị điện trở, dung sai, công suất tiêu tán, hệ số nhiệt
+c. công suất tiêu tán, giá trị điện trở, dung sai, dải nhiệt độ
+d. dung sai, công suất, điện áp chịu đựng, dải nhiệt độ làm việc
+6
+Hãy cho biết sơ đồ tương đương AC tín hiệu nhỏ, tần số thấp dưới đây được sử dụng cho kiểu mắc transistor nào?
+                                    
+Select one or more:
+a. CD
+b. CS
+c. CG
+7
+Hãy cho biết cách đưa tín hiệu vào và lấy tín hiệu ra trong sơ đồ mắc BJT kiểu Bazo chung
+Select one:
+a. tín hiệu vào giữa B và C; lấy ra giữa C và E
+b. tín hiệu vào giữa B và E; lấy ra giữa C và B
+c. tín hiệu vào giữa C và E; lấy ra giữa B và E
+d. tín hiệu vào giữa B và E; lấy ra giữa C và E
+8
+Pha của tín hiệu điện áp vào và tín hiệu điện áp ra của sơ đồ mắc nào đảo pha nhau?
+Select one:
+a. Collector chung
+b. Base chung
+c. Emitter chung
+9
+Mạch khuếch đại collector chung có đặc điểm nào sau đây?
+Select one or more:
+a. hệ số khuếch đại dòng điện lớn (>> 1)
+b. hệ số khuếch đại dòng điện nhỏ (~ 1)
+c. hệ số khuếch đại điện áp nhỏ (~ 1)
+d. hệ số khuếch đại điện áp lớn (>> 1)
+10
+Khi cần thiết kế mạch khuếch đại có công suất lớn, tần số cao, người ta nên chọn linh kiện nào sau đây ?
+Select one:
+a. FET
+b. diode
+c. SCR
+d. BJT
+11
+Khi  đặt điện áp giữa cực máng D và cực nguồn S nhưng cực cửa G để hở thì kênh dẫn (dòng cực máng) cũng không xuất hiện trong các linh kiện nào  ?
+       
+Select one or more:
+A. JFET
+B. E-MOSFET
+C. BJT
+D. D-MOSFET
+12
+Để E-MOSFET có cấu tạo như hình dưới đây dẫn dòng thì cần điều kiện nào?
+Select one or more:
+a.
+V
+GS
+>
+V
+th
+>0
+
+b.
+V
+DS
+<0
+
+c.
+V
+DS
+<
+V
+P
+
+d.
+V
+GS
+>0
+
+
+e.
+V
+GS
+<
+V
+th
+<0
+13
+Transistor lưỡng cực (BJT) là linh kiện loại nào và được điều khiển bằng gì ?
+Select one:
+a. linh kiện tích cực, điều khiển bằng điện áp
+b. linh kiện thụ động, điều khiển bằng dòng
+c. linh kiện tích cực, điều khiển bằng dòng điện
+d. linh kiện thụ động, không điều khiển được
+14
+Hãy cho biết hình vẽ dưới đây biểu diễn hiện tượng gì trong JFET kênh N ?
+Select one:
+a. dòng qua kênh dẫn đạt giá trị cực đại
+b. đánh thủng chuyển tiếp P-N
+c. thắt kênh dẫn
+d. dòng cực máng bão hòa
+15
+Chọn phát biểu SAI trong các phát biểu sau: Transistor BJT là linh kiện điện tử có đặc điểm ......
+Select one:
+a. là linh kiện được điều khiển bằng dòng điện
+b. là linh kiện có thể hoạt động như khóa điện tử hay khuếch đại tín hiệu
+c. là linh kiện không thể điều khiển được
+d. là linh kiện có 2 chuyển tiếp P-N
+16
+Mạch khuếch đại công suất có điểm làm việc tĩnh ở vùng ngắt, tín hiệu đầu vào lớn thì gọi là hoạt động ở chế độ ....
+Select one:
+a. B
+b. ngắt
+c. bão hòa
+d. A
+17
+Trong mạch khuếch đại công suất, công suất xoay chiều trên tải được xác định theo công thức nào?
+Select one:
+a.
+P
+ac
+=
+2
+V
+cc
+I
+c(p)
+π
+
+b.
+P
+ac
+=
+V
+ce(p−p)
+I
+c(p−p)
+2
+
+c.
+P
+ac
+=
+V
+cc
+I
+CQ
+
+d.
+P
+ac
+=
+I
+2
+c(p)
+R
+L
+2
+18
+Hãy cho biết dạng điện áp vào và ra được cho trong hình dưới đây là của mạch nào ?
+Select one:
+a. mạch chỉnh lưu
+b. mạch chỉnh lưu hai nửa chu kỳ
+c. mạch khuếch đại công suất chế độ B
+d. mạch khuếch đại công suất chế độ A
+19
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+mạch khuếch đại hoạt động ở chế độ C thì tín hiệu đầu ra có dạng nào ?
+Select one:
+a.
+b.
+c.
+d.
+20
+Mạch khuếch đại công suất có transistor làm việc ở vùng tuyến tính, tín hiệu đầu vào nhỏ thì gọi là hoạt động ở chế độ ....
+Select one:
+a. A
+b. B
+c. AB
+d. C

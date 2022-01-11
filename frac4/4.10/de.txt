@@ -1,0 +1,166 @@
+1
+Transistor EMOSFET có thể dẫn dòng khi điện áp cực cửa bằng 0 (hở mạch cực cửa) được không ?
+Select one:
+a. Có
+b. Không
+2
+Hãy cho biết hình dưới đây biểu diễn đặc tuyến truyền đạt của loại linh kiện nào?
+ 
+Select one:
+a. D-MOSFET
+b. E-MOSFET
+c. JFET
+d. BJT 
+3
+Linh kiện thụ động là linh kiện có đặc điểm gì ?
+Select one:
+a. cần nguồn cung cấp năng lượng riêng để hoạt động đúng chức năng của mình
+b. có thể được điều khiển bởi dòng hoặc áp
+c. có khả năng khuếch đại năng lượng
+d. không cần nguồn cung cấp năng lượng riêng để hoạt động đúng chức năng của mình
+4
+Trong mạch điện tử, các linh kiện nào sau đây có thể được sử dụng để chuyển điện áp xoay chiều thành một chiều ?
+Select one or more:
+a. Điện trở
+b. FET
+c. Diode
+d. Tụ điện
+e. BJT
+5
+Chọn phát biểu SAI trong các phát biểu sau. Linh kiện tích cực là linh kiện có đặc điểm .....
+Select one:
+a. cần nguồn cung cấp năng lượng riêng để hoạt động đúng chức năng của mình
+b. luôn được chế tạo từ chất bán dẫn
+c. có thể điều khiển được
+d. không cần nguồn cung cấp năng lượng riêng để hoạt động đúng chức năng của mình
+6
+Hình dưới đây mô tả đặc tuyến nào của mạch khuếch đại ?
+Select one:
+a. truyền đạt
+b. biên độ - tần số
+c. đầu ra
+d. đường tải tĩnh
+7
+Hãy cho biết sơ đồ tương đương AC tín hiệu nhỏ, tần số thấp dưới đây thường được sử dụng cho kiểu mắc transistor nào?
+                                    
+Select one:
+a. Emitter chung
+b. Base chung
+c. Collector chung
+8
+Trong mạch khuếch đại emito chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+Select one:
+a. bazo và emito
+b. colecto và bazo
+c. bazo và colecto
+d. emito và colecto
+9
+Pha của tín hiệu điện áp vào và tín hiệu điện áp ra của sơ đồ mắc nào đồng pha nhau?
+Select one or more:
+a. Base chung
+b. Emitter chung
+c. Collector chung
+10
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+Select one:
+a. Sơ đồ tương đương AC của mạch CB
+b.  Sơ đồ tương đương AC của mạch Collector chung
+c. Sơ đồ tương đương DC của mạch Emitter chung
+d. Sơ đồ tương đương AC của mạch CE
+11
+Chọn phát biểu đúng nhất trong các phát biểu sau:
+Transistor có thể hoạt động như các phần tử ........
+Select one:
+a. khuếch đại, ổn áp, ổn dòng
+b. khuếch đại, ổn áp, khóa điện tử
+c. khóa điện tử, khuếch đại
+d. chỉnh lưu, khuếch đại, khóa điện tử
+12
+Hãy cho biết khi đặt điện áp VGS tăng dần về phía âm thì kênh dẫn trong JFET kênh N thay đổi như thế nào?
+       
+Select one:
+a. hẹp về phía S
+b. không thay đổi độ rộng
+c. rộng dần về phía D
+d. hẹp dần về phía D
+13
+Hiện tượng pinch-off trong JFET xảy ra khi nào?
+Select one:
+a. dòng cực máng biến mất (bằng 0) và Vgs=0
+b. dòng cực máng bão hòa và Vgs=0
+c. dòng cực máng > 0 và Vgs = 0 
+d. dòng cực nguồn bằng 0 và Vgs < 0 
+14
+Biểu thức dưới đây mô tả hàm truyền đạt của loại linh kiện điện tử nào?
+I
+C
+=β
+I
+B
+Select one or more:
+a. E-MOSFET
+b. JFET
+c. D-MOSFET
+d. BJT
+15
+Transistor hiệu ứng trường (FET) là linh kiện loại nào và được điều khiển bằng gì ?
+Select one:
+a. linh kiện thụ động, điều khiển bằng dòng
+b. linh kiện tích cực, điều khiển bằng điện áp
+c. linh kiện tích cực, điều khiển bằng dòng điện
+d. linh kiện thụ động, không điều khiển được
+16
+Mạch khuếch đại công suất có điểm làm việc tĩnh ở giữa vùng tuyến tính, tín hiệu đầu vào nhỏ thì gọi là hoạt động ở chế độ ....
+Select one:
+a. C
+b. B
+c. A
+d. AB
+17
+Trong mạch công suất chế độ B, VCC là điện áp nguồn cấp một chiều, VL(p) là biên độ của điện áp xoay chiều trên tải,  công suất tiêu tán trên Transistor là lớn nhất khi VL(p) có giá trị là bao nhiêu?
+Select one:
+a.
+0,636
+V
+cc
+
+b.
+0,5
+V
+cc
+
+c.
+V
+cc
+
+
+d.
+0,707
+V
+cc
+18
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+Nếu tín hiệu ra có dạng:
+
+thì mạch khuếch đại hoạt động ở chế độ nào ?
+Select one:
+a. AB
+b. A
+c. C
+d. B
+19
+Cho mạch điện như hình vẽ sau đây. Hãy cho biết đây là mạch gì ?
+Select one:
+a. Mạch khuếch đại công suất  Darlington
+b. Mạch khuếch đại công suất đẩy kéo
+c. Mạch khuếch đại công suất Cascode
+d. Mạch khuếch đại đơn
+20
+Hiệu suất cực đại của mạch khuếch đại công suất chế độ B là bao nhiêu ?
+Select one:
+a. 50 %
+b. 78,5 %
+c. 60 %
+d. 25 %

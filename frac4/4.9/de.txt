@@ -1,0 +1,163 @@
+1
+Hãy đọc tên các loại tụ điện trong hình dưới đây theo thứ tự từ trái qua phải.
+                      
+Select one:
+a. tụ film, tụ gốm, tụ mica và tụ hóa
+b. tụ dán bề mặt, tụ xoay, tụ mica và tụ hóa
+c. tụ dán, tụ xoay, tụ tantan và tụ hóa
+d. tụ SMD, tụ xoay, tụ gốm và tụ giấy
+3
+Cuộn dây có trở kháng tỉ lệ như thế nào với tần số của dòng điện qua nó ?
+Select one:
+a. không phụ thuộc
+b. tỉ lệ thuận
+c. tỉ lệ nghịch
+4
+Trong mạch điện tử, các linh kiện nào sau đây có thể sử dụng để khuếch đại tín hiệu ?
+Select one or more:
+a. FET
+b. Tụ điện
+c. Điện trở
+d. BJT
+5
+Trong mạch điện tử, các linh kiện nào sau đây có thể sử dụng để chỉnh lưu dòng điện ?
+Select one or more:
+a. Điện trở
+b. Diode
+c. Tụ điện
+d. Transistor
+6
+Mạch emito chung có đặc điểm nào sau đây?
+Select one or more:
+a. hệ số khuếch đại điện áp nhỏ (~ 1)
+b. hệ số khuếch đại điện áp lớn (>> 1)
+c. hệ số khuếch đại dòng điện nhỏ (~ 1)
+d. hệ số khuếch đại dòng điện lớn (>> 1)
+7
+Mạch khuếch đại BJT thường được mắc kiểu emito chung vì  .........
+Select one:
+a. khuếch đại cả tín hiệu dòng và tín hiệu áp.
+b. khuếch đại dòng mà không khuếch đáp áp.
+c. tín hiệu ra đồng pha với tín hiệu vào.
+d. tín hiệu ra đảo pha so với tín hiệu đầu vào.
+e. khuếch đại áp mà không khuếch đại dòng.
+8
+Mạch khuếch đại base chung có đặc điểm nào sau đây?
+Select one or more:
+a. trở kháng ra thấp
+b. trở kháng ra cao
+c. trở kháng vào cao
+d. trở kháng vào thấp
+9
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+Select one:
+a. Sơ đồ tương đương DC của mạch Emitter chung
+b. Sơ đồ tương đương AC của mạch CE
+c.  Sơ đồ tương đương AC của mạch Collector chung
+d. Sơ đồ tương đương AC của mạch CB
+10
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+Select one:
+a. Sơ đồ tương đương AC của mạch cực nguồn chung
+b. Sơ đồ tương đương DC của mạch Emitter chung
+c.  Sơ đồ tương đương AC của mạch Collector chung
+d. Sơ đồ tương đương AC của mạch cực cửa chung
+11
+Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết nó hoạt động như phần tử nào ?
+Select one:
+a. khóa điện tử mở
+b. chỉnh lưu
+c. khuếch đại
+d. khóa điện tử đóng
+12
+Hãy cho biết JFET kênh P khi dẫn dòng thì hạt dẫn chạy trong kênh dẫn là loại nào?
+       
+Select one:
+a. điện tử và lỗ trống
+b. chỉ là điện tử
+c. chỉ là lỗ trống
+d. điện tử hoặc lỗ trống
+13
+Hãy cho biết linh kiện có cấu tạo như hình dưới đây là linh kiện nào ?
+Select one:
+a. JFET
+b. BJT
+c. DMOSFET
+d. EMOSFET
+14
+Khi một JFET ở chế độ ngắt thì các lớp chuyển tiếp P-N sẽ như thế nào ?
+Select one:
+a. biến mất
+b. phủ trùm lên nhau
+c. thu hẹp lại
+d. mở rộng hơn nhưng không chạm vào nhau
+15
+Hiện tượng ngắt kênh dẫn trong FET xảy ra khi nào ?
+Select one:
+a. hở mạch cực cửa
+b. dòng cực máng bão hòa khi điện áp 
+V
+GS
+=
+V
+P
+
+c. dòng cực máng biến mất (bằng 0) khi điện áp 
+V
+GS
+=
+V
+P
+
+d. dòng cực cửa bằng 0
+16
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+Nếu tín hiệu ra có dạng:
+
+thì mạch khuếch đại hoạt động ở chế độ nào ?
+Select one:
+a. AB
+b. B
+c. C
+d. A
+17
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+mạch khuếch đại hoạt động ở chế độ C thì tín hiệu đầu ra có dạng nào ?
+Select one:
+a.
+b.
+c.
+d.
+18
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+Nếu tín hiệu ra có dạng:
+
+thì hiện tượng trên gọi là ......
+Select one:
+a. méo hài
+b. méo điểm 0
+c. méo biên
+d. méo tần số cao
+19
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+Nếu tín hiệu ra có dạng:
+
+thì mạch khuếch đại hoạt động ở chế độ nào ?
+Select one:
+a. B
+b. A
+c. AB
+d. C
+20
+Transistor làm việc ở chế độ AB thì khi chưa đưa tín hiệu vào nó có tiêu thụ công suất hay không ? tại sao ?
+Select one:
+a. không vì điểm làm việc tĩnh Q nằm sâu trong vùng ngắt, tức là dòng tĩnh lớn.
+b. có vì điểm làm việc tĩnh Q nằm gần vùng ngắt, tức là dòng tĩnh lớn hơn 0.
+c. có vì điểm làm việc tĩnh Q nằm giữa đường tải tĩnh, tức là dòng tĩnh lớn.
+d. không vì điểm làm việc tĩnh Q nằm trong vùng ngắt, tức là dòng tĩnh bằng 0.

@@ -1,0 +1,139 @@
+1
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+Select one:
+a. mạch ghép tầng kiểu biến áp
+b. mạch ghép tầng trực tiếp
+c. mạch ghép tầng Cascode
+d. mạch ghép tầng kiểu RC
+2
+Mạch khuếch đại vi sai sẽ khuếch đại ....
+Select one:
+a. tín hiệu vào cửa thuận
+b. hiệu của hai tín hiệu vào
+c. tích của hai tín hiệu vào
+d. tổng của hai tín hiệu vào
+e. tín hiệu vào cửa đảo
+3
+Transistor BJT hoạt động như một khóa điện tử đóng khi trạng thái phân cực của chuyển tiếp emito và chuyển tiếp colecto như thế nào ?
+Select one:
+a. ngược / thuận
+b. thuận / thuận
+c. ngược / ngược
+d. thuận / ngược
+4
+Trong mạch điện tử, các linh kiện nào sau đây có thể sử dụng để khuếch đại tín hiệu ?
+Select one:
+a. Tụ điện
+b. Transistor
+c. Điện trở
+d. Diode
+5
+Một mạch cấp nguồn cho transistor như hình dưới đây. Hãy cho biết khi đó sơ đồ tương đương của nó như thế nào?
+Select one:
+a.
+b.
+c.
+d. không sơ đồ nào đúng
+6
+Trong mạch khuếch đại emito chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+Select one:
+a. colecto và bazo
+b. bazo và emito
+c. bazo và colecto
+d. emito và colecto
+7
+Trong mạch khuếch đại bazo chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+Select one:
+a. bazo và colecto
+b. bazo và emito
+c. emito và colecto
+d. colecto và bazo
+8
+Hãy cho biết linh kiện có cấu tạo như hình vẽ dưới đây là loại linh kiện nào ?
+Select one:
+a. JFET kênh P
+b. BJT loại P
+c. BJT loại N
+d. JFET kênh N
+9
+Hãy cho biết JFET kênh P khi dẫn dòng thì hạt dẫn chạy trong kênh dẫn là loại nào?
+       
+Select one:
+a. điện tử hoặc lỗ trống
+b. chỉ là lỗ trống
+c. điện tử và lỗ trống
+d. chỉ là điện tử
+10
+Khi FET dẫn dòng thì hạt dẫn sẽ xuất phát từ ...... đến .........
+Select one:
+a. cực nguồn ... cực máng dưới sự điều khiển của điện áp VGS
+b. cực cửa ..... cực máng dưới sự điều khiển của điện áp VSD
+c. cực máng ..... cực nguồn dưới sự điều khiển của điện áp VGS
+d. cực nguồn ...... cực cửa dưới sự điều khiển của điện áp VDS
+12
+Trong mạch khuếch đại emito chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+Select one:
+a. bazo và colecto
+b. bazo và emito
+c. colecto và bazo
+d. emito và colecto
+13
+Khi BJT ngược (NPN) dẫn dòng thì loại hạt dẫn chính tạo nên dòng điện IC là loại hạt dẫn nào ?
+Select one:
+a. lỗ trống
+b. cả điện tử và lỗ trống
+c. điện tử
+d. có thể là điện tử nhưng cũng có thể là lỗ trống
+14
+Transistor thường được sử dụng trong các mạch nào sau đây?
+Select one or more:
+a. tích trữ điện tích
+b. chỉnh lưu dòng điện xoay chiều
+c. khuếch đại 
+d. phân áp một chiều
+e. khoá điện tử
+f. nam châm điện
+15
+Mạch khuếch đại Darlington là mạch ghép trực tiếp của các mạch nào ?
+Select one:
+a. Emito chung và Bazo chung
+b. 2 mạch Colecto chung
+c. 2 mạch Emito chung
+d. Bazo chung và Emito chung
+16
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+Select one:
+a. Sơ đồ tương đương AC của mạch cực cửa chung
+b. Sơ đồ tương đương AC của mạch cực nguồn chung
+c.  Sơ đồ tương đương AC của mạch Collector chung
+d. Sơ đồ tương đương AC của mạch Drain chung
+17
+Mạch dưới đây có hệ số khuếch đại thay đổi như thế nào so với khi không có tải?
+Select one:
+a. Không xác định được
+b. Không thay đổi
+c. Giảm
+d. Tăng
+18
+Mạch khuếch đại cần được cung cấp năng lượng bởi ........
+Select one:
+a. chỉ nguồn dc
+b. chỉ nguồn ac.
+c. không cần cung cấp năng lượng.
+d. nguồn dc và ac.
+19
+Hãy cho biết hình dưới đây biểu diễn cấu tạo của linh kiện nào ?
+Select one:
+a. BJT
+b. MOSFET
+c. JFET
+d. UJT
+20
+Hãy cho biết khi đặt điện áp VGS tăng dần về phía âm thì kênh dẫn trong JFET kênh N thay đổi như thế nào?
+       
+Select one:
+a. hẹp dần về phía D
+b. rộng dần về phía D
+c. không thay đổi độ rộng
+d. hẹp về phía S

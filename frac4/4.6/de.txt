@@ -1,0 +1,169 @@
+1
+Điện áp cần thiết đặt lên cực phát của UJT để nó dẫn điện được gọi là gì ?
+Select one:
+a. điện áp kích khởi Vk
+b. điện áp ngưỡng thủng VBo
+c. điện áp trũng Vv
+d. điện áp đỉnh Vp
+2
+Trong mạch điện tử, các linh kiện nào sau đây có thể sử dụng để làm khóa điện tử ?
+Select one or more:
+a. BJT
+b. Điện trở
+c. FET
+d. Tụ điện
+3
+
+Select one:
+a. BJT, UJT,EMOSFET
+b. UJT,SCR,DMOSFET
+c. BJT, UJT,DMOSFET
+d. BJT,SCR, EMOSFET
+4
+Một biến áp có cuộn thứ cấp nối với tải 8 Ohm, biến áp này cần có tỉ số vòng dây sơ cấp / vòng dây thứ cấp là bao nhiêu để điện trở phản ánh về cuộn sơ cấp là 800 Ohm ?
+Select one:
+a. 1:20
+b. 20:1
+c. 10:1
+d. 1:10
+5
+Cảm kháng là gì ? được tính theo công thức nào ?
+Select one:
+a. Cảm kháng là đại lượng biểu thị sự cản trở dòng xoay chiều của cuộn dây và được tính theo công thức XL = jwL
+b. Cảm kháng là đại lượng biểu thị sự cản trở dòng xoay chiều của cuộn dây và được tính theo công thức XL = 1/jwL
+c. Cảm kháng là đại lượng biểu thị sự cản trở dòng một chiều của cuộn dây và được tính theo công thức XL = jwL
+d. Cảm kháng là đại lượng biểu thị sự cản trở dòng xoay chiều của tụ điện và được tính theo công thức XC = jwC
+6
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+Select one:
+a.  Sơ đồ tương đương AC của mạch Collector chung
+b. Sơ đồ tương đương AC của mạch Drain chung
+c. Sơ đồ tương đương AC của mạch cực nguồn chung
+d. Sơ đồ tương đương AC của mạch cực cửa chung
+7
+Sơ đồ mạch dưới đây là mạch khuếch đại được ghép theo kiểu gì?
+Select one:
+a. ghép biến áp
+b. ghép tụ điện
+c. ghép trực tiếp
+d. ghép Darlington
+8
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+Select one:
+a. Emitter chung
+b. Base chung
+c. Source chung
+d. Collector chung
+9
+Mạch khuếch đại base chung có đặc điểm nào sau đây?
+Select one or more:
+a. hệ số khuếch đại điện áp nhỏ (~ 1)
+b. hệ số khuếch đại dòng điện lớn (>> 1)
+c. hệ số khuếch đại dòng điện nhỏ (~ 1)
+d. hệ số khuếch đại điện áp lớn (>> 1)
+10
+Hãy cho biết cách đưa tín hiệu vào và lấy tín hiệu ra trong sơ đồ mắc BJT kiểu Bazo chung
+Select one:
+a. tín hiệu vào giữa B và E; lấy ra giữa C và B
+b. tín hiệu vào giữa C và E; lấy ra giữa B và E
+c. tín hiệu vào giữa B và C; lấy ra giữa C và E
+d. tín hiệu vào giữa B và E; lấy ra giữa C và E
+12
+Transistor BJT hoạt động như phần tử khuếch đại nếu trạng thái phân cực của chuyển tiếp emito và chuyển tiếp colecto là như thế nào ?
+Select one:
+a. thuận / thuận
+b. ngược / thuận
+c. thuận / ngược
+d. ngược / ngược
+13
+Một mạch cấp nguồn cho transistor như hình dưới đây. Hãy cho biết khi đó sơ đồ tương đương của nó như thế nào?
+Select one:
+a.
+b.
+c.
+d. không sơ đồ nào đúng
+14
+Khi BJT ngược (NPN) dẫn dòng thì loại hạt dẫn chính tạo nên dòng điện IC là loại hạt dẫn nào ?
+Select one:
+a. có thể là điện tử nhưng cũng có thể là lỗ trống
+b. cả điện tử và lỗ trống
+c. điện tử
+d. lỗ trống
+16
+Mạch khuếch đại công suất có transistor làm việc ở vùng tuyến tính, tín hiệu đầu vào nhỏ thì gọi là hoạt động ở chế độ ....
+Select one:
+a. A
+b. B
+c. C
+d. AB
+17
+Một mạch khuếch đại đơn tải biến áp có hiệu suất lớn nhất là bao nhiêu?
+Select one:
+a. 100%
+b. 78,5%
+c. 25%
+d. 50%
+18
+Mạch khuếch đại công suất hoạt động ở chế độ nào để có hệ số khuếch đại lớn nhất ?
+Select one:
+a. C
+b. AB
+c. B
+d. A
+19
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+Nếu tín hiệu ra có dạng:
+
+thì mạch khuếch đại hoạt động ở chế độ nào ?
+Select one:
+a. B
+b. C
+c. A
+d. AB
+20
+Trong mạch khuếch đại công suất chế độ A, nguồn một chiều cung cấp công suất theo công thức nào?
+Select one:
+a.
+P
+dc
+=
+2
+V
+cc
+I
+c(p)
+π
+
+b.
+P
+dc
+=
+V
+cc
+I
+c(p)
+π
+
+c.
+P
+dc
+=
+2
+V
+cc
+I
+c(avg)
+π
+
+
+d.
+P
+dc
+=
+V
+cc
+I
+CQ
