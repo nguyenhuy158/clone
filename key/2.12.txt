@@ -1,0 +1,23 @@
+4
+Tụ điện có trở kháng tỉ lệ như thế nào với tần số của dòng điện qua nó ?
+dap an la: b. tỉ lệ nghịch
+6
+Phát biểu sau ĐÚNG hay SAI ?
+Có thể tìm được điện trở được sản xuất với bất kỳ giá trị nào.
+dap an la: a. sai
+7
+Trong hình vẽ dưới đây, từ trái qua phải lần lượt là ký hiệu của các linh kiện nào ?
+dap an la: d. JFET kênh N ,DMOSFET kênh N, EMOSFET kênh P
+8
+Hình dưới đây mô tả cấu tạo của loại linh kiện nào ?
+dap an la: d. JFET kênh N
+12
+Linh kiện nào sau đây chỉ hoạt động ở chế độ giàu hạt dẫn?
+       
+dap an la: b. E-MOSFET
+17
+Khi BJT dẫn dòng thì hạt dẫn xuất phát từ ..... đến ........
+dap an la: c. cực emito ...... colecto
+18
+Khi BJT ngược (NPN) dẫn dòng thì loại hạt dẫn chính tạo nên dòng điện IC là loại hạt dẫn nào ?
+dap an la: a. điện tử

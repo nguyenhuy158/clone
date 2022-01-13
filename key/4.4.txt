@@ -1,0 +1,34 @@
+1
+Chọn phát biểu sai trong các phát biểu sau:
+Tụ điện được sử dụng trong các mạch .............
+dap an la: d. biến đổi giá trị dòng điện, điện áp một chiều
+3
+Điện trở thuần có trở kháng tỉ lệ như thế nào với tần số của dòng điện qua nó ?
+dap an la: b. không phụ thuộc
+5
+Trong các linh kiện điện tử sau đây, loại nào có trở kháng phụ thuộc vào tần số ?
+dap an la: b. cuộn dây, tụ điện, transistor
+6
+Trong mạch khuếch đại colecto chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: d. bazo và emito
+9
+Hãy cho biết mạch dưới đây là mạch khuếch đại ghép tầng kiểu gì?
+dap an la: a. Cascode
+10
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: b. Sơ đồ tương đương AC của mạch CE
+13
+Hình dưới đây biểu diễn điều gì?
+dap an la: a. đặc tuyến truyền đạt và họ đặc tuyến ra của D-MOSFET
+14
+Hình dưới đây mô tả một JFET đang hoạt động, giả sử điện áp VDS cố định hãy cho biết dòng cực máng ID có đặc điểm gì ?
+dap an la: b. được điều khiển bởi điện áp VGS
+15
+Hình vẽ dưới đây biểu diễn gì ?
+dap an la: a. a) họ đặc tuyến vào và b) họ đặc tuyến ra của BJT.
+18
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+mạch khuếch đại hoạt động ở chế độ AB thì tín hiệu đầu ra có dạng nào ?
+dap an la: c.

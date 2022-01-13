@@ -1,0 +1,27 @@
+1
+Hãy kể tên một số loại vật liệu bán dẫn
+dap an la: d. GaAs, Si, GaP
+6
+Ở nhiệt độ phòng, độ dẫn điện của chất bán dẫn pha tạp như thế nào so với chất dẫn điện thông thường ?
+dap an la: a. dẫn điện tốt hơn
+7
+Trong mạch điện tử, Điện trở là linh kiện dùng để làm gì ?
+dap an la: A. phân chia dòng và áp trong mạch.
+9
+Trong kỹ thuật điện tử, vật liệu cách điện thường được sử dụng để làm gì ?
+dap an la: d. vỏ bọc dây dẫn điện
+10
+Trong sơ đồ sau, tụ điện đang được ....... và thời gian thực hiện quá trình này phụ thuộc vào ......
+dap an la: b. ......... nạp điện ....... giá trị của điện trở và điện dung của tụ
+11
+Tính chất dẫn điện của bán dẫn loại N là do .... quyết định.
+dap an la: d. điện tử
+12
+Chất bán dẫn loại P là chất bán dẫn được hình thành bằng cách pha vào bán dẫn thuần tạp chất thuộc nhóm mấy ?
+dap an la: a. III
+13
+Một biến áp có cuộn thứ cấp nối với tải 8 Ohm, biến áp này cần có tỉ số vòng dây sơ cấp / vòng dây thứ cấp là bao nhiêu để điện trở phản ánh về cuộn sơ cấp là 3,2 KOhm ?
+dap an la: b. 20:1
+18
+Nếu có một nguồn điện áp một chiều 9 VDC mắc với điện trở R, để lấy được điện áp 3 VDC người ta có thể ........
+dap an la: c. mắc nối tiếp với điện trở R một điện trở khác có giá trị bằng R/2

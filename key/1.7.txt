@@ -1,0 +1,28 @@
+4
+Phát biểu sau ĐÚNG hay SAI ?
+Một diode chỉnh lưu không thể hoạt động lại bình thường nếu bị đánh thủng vì điện.
+dap an la: b. đúng
+7
+Chất bán dẫn loại P là chất bán dẫn được hình thành bằng cách pha vào bán dẫn thuần tạp chất thuộc nhóm mấy ?
+dap an la: b. III
+8
+Trong các hình dưới đây, hình nào biểu diễn đặc tuyến Von-Ampe của diode chỉnh lưu:
+dap an la: c. b
+10
+Tụ điện có trở kháng tỉ lệ như thế nào với tần số của dòng điện qua nó ?
+dap an la: c. tỉ lệ nghịch
+11
+Cho điện trở có vòng màu như sau, hãy xác định giá trị của điện trở
+dap an la: c. 1 KOhm 5%
+15
+Chất bán dẫn loại N là chất bán dẫn được hình thành bằng cách pha tạp chất thuộc nhóm mấy vào bán dẫn thuần ?
+dap an la: c. V
+16
+Hãy đọc giá trị của điện trở cho trong hình dưới đây.
+dap an la: c. 820 Ohm +/- 5%
+18
+Trong kỹ thuật điện tử, vật liệu cách điện thường được sử dụng để làm gì ?
+dap an la: c. vỏ bọc dây dẫn điện
+20
+Tính chất dẫn điện của bán dẫn loại P là do .... quyết định.
+dap an la: c. lỗ trống

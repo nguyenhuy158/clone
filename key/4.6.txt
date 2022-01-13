@@ -1,0 +1,14 @@
+5
+Transistor có 3 chế độ hoạt động cơ bản là ........
+dap an la: b. ngắt, tích cực và dẫn bão hòa
+13
+Sơ đồ phân cực cho JFET phải đảm bảo điều kiện gì ?
+dap an la: d. các chuyển tiếp P-N phân cực ngược và hạt dẫn di chuyển từ S sang D
+16
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+mạch khuếch đại hoạt động ở chế độ B thì tín hiệu đầu ra có dạng nào ?
+dap an la: d.
+17
+Một mạch khuếch đại đẩy kéo chế độ B có thể đạt hiệu suất lớn nhất khi nào?
+dap an la: a. Tín hiệu ra lớn nhất mà không bị méo dạng

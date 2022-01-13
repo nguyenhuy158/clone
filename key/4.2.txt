@@ -1,0 +1,18 @@
+2
+Hãy cho biết hình dưới đây biểu diễn đặc tuyến truyền đạt của loại linh kiện nào?
+  
+dap an la: b. D-MOSFET
+5
+Tác dụng chính của điện trở trong mạch điện là gì ?
+dap an la: b. ngăn cản sự lưu thông của dòng điện để xác định mức dòng và áp trong mạch
+6
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+dap an la: a. Emitter chung
+9
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+dap an la: a. Collector chung
+15
+Dòng điện được tạo ra trong FET do hạt dẫn loại nào tạo nên ?
+dap an la: d. điện tử hoặc lỗ trống

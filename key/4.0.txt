@@ -1,0 +1,30 @@
+3
+Điện trở có cấu tạo được mô tả như trong hình dưới đây là loại nào ?
+dap an la: c. điện trở dây quấn
+6
+Trong mạch khuếch đại emito chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: b. bazo và colecto
+8
+Mạch khuếch đại cần được cung cấp năng lượng bởi ........
+dap an la: c. nguồn dc và ac.
+9
+Mạch khuếch đại sẽ tạo ra năng lượng trên tải có quy luật biến thiên theo ...
+dap an la: c. nguồn tín hiệu ac.
+13
+Hãy cho biết linh kiện có cấu tạo như hình vẽ dưới đây là loại linh kiện nào ?
+dap an la: b. JFET kênh N
+15
+Chọn phát biểu ĐÚNG NHẤT trong các đáp án.
+Chế độ hoạt động của transistor BJT phụ thuộc vào điều gì sau đây ?
+dap an la: c. trạng thái phân cực của 2 chuyển tiếp P-N
+17
+Trong mạch khuếch đại công suất, công suất xoay chiều trên tải được xác định theo công thức nào?
+dap an la: b.
+P
+ac
+=
+V
+ce(p)
+I
+c(p)
+2

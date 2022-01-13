@@ -1,0 +1,13 @@
+4
+Chất bán dẫn loại P là chất bán dẫn được hình thành bằng cách pha vào bán dẫn thuần tạp chất thuộc nhóm mấy ?
+dap an la: a. III
+6
+Khi diode chỉnh lưu bị phân cực như thế nào thì nó tương đương như một khóa điện tử đóng ?
+dap an la: a. phân cực thuận
+11
+Ưu điểm chính của BJT so với FET là gì ?
+dap an la: a. hệ số khuếch đại lớn
+16
+Hãy cho biết khi đặt điện áp VGS tăng dần về phía âm thì kênh dẫn trong JFET kênh N thay đổi như thế nào?
+       
+dap an la: b. hẹp dần về phía D

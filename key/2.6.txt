@@ -1,0 +1,40 @@
+1
+Tác dụng chính của điện trở trong mạch điện là gì ?
+dap an la: a. ngăn cản sự lưu thông của dòng điện để xác định mức dòng và áp trong mạch
+2
+Ở điều kiện nhiệt độ phòng, chất bán dẫn có khả năng nào sau đây ?
+dap an la: b. dẫn điện như một chất dẫn điện tốt
+3
+Hình dưới đây biểu diễn linh kiện điện tử được cấu tạo bởi vật liệu từ loại nào ?
+dap an la: a. vật liệu từ mềm
+5
+Hãy cho biết điện trở sau có giá trị bao nhiêu ?
+dap an la: a. 5,6 KOhm
+6
+Cho điện trở có vòng màu như sau, hãy xác định giá trị của điện trở
+dap an la: a. 470 Ohm 10%
+7
+Nguyên tắc hoạt động của biến áp dựa trên hiện tượng nào ?
+dap an la: D. cảm ứng điện từ
+8
+Hãy cho biết hình dưới đây biểu diễn đặc tuyến truyền đạt của loại linh kiện nào?
+  
+dap an la: c. D-MOSFET
+14
+Dòng điện trong transistor BJT do loại hạt dẫn nào tạo nên ?
+dap an la: a. điện tử và lỗ trống
+17
+Muốn transistor làm việc như một phần tử khuếch đại người ta thường chọn điểm làm việc tĩnh ở giữa đường tải tĩnh để làm gì ?
+dap an la: a. tín hiệu ra có biên độ lớn nhất mà không bị méo dạng
+19
+Biểu thức dưới đây mô tả hàm truyền đạt của loại linh kiện điện tử nào?
+I
+C
+=β
+I
+B
+dap an la: c. BJT
+20
+Linh kiện nào sau đây chỉ hoạt động ở chế độ nghèo hạt dẫn?
+       
+dap an la: d. E-MOSFET

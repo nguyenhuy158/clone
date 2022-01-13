@@ -1,0 +1,18 @@
+2
+Điện trở có cấu tạo được mô tả như trong hình dưới đây là loại nào ?
+dap an la: d. điện trở dây quấn
+4
+Trong mạch điện tử, Điện trở là linh kiện dùng để làm gì ?
+dap an la: A. phân chia dòng và áp trong mạch.
+6
+Tác dụng chính của điện trở trong mạch điện là gì ?
+dap an la: a. ngăn cản sự lưu thông của dòng điện để xác định mức dòng và áp trong mạch
+12
+Hãy cho biết linh kiện có cấu tạo như hình dưới đây là linh kiện nào ?
+dap an la: b. DMOSFET
+14
+Hãy cho biết ý nghĩa của việc xác định vị trí của điểm làm việc tĩnh của transistor trên đường tải tĩnh ?
+dap an la: a. để xác định chế độ làm việc của transistor
+19
+Khi đặt điện áp giữa cực D và S nhưng cực G để hở thì dòng điện cũng không thể xuất hiện trong linh kiện nào sau đây ?
+dap an la: b. EMOSFET

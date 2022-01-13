@@ -1,0 +1,18 @@
+1
+Hãy đọc tên các linh kiện có trong hình dưới đây theo thứ tự từ trái qua phải.
+dap an la: a. biến trở, nhiệt trở và quang trở
+2
+Các chất nào sau đây là chất bán dẫn ?
+dap an la: d. Si, Ge, GaAs
+5
+Tính chất dẫn điện của bán dẫn loại N là do .... quyết định.
+dap an la: c. điện tử
+14
+Với BJT, hệ số khuếch đại một chiều β và hệ số truyền đạt α có quan hệ thông qua biểu thức nào ?
+dap an la: a.
+19
+Một mạch cấp nguồn cho transistor như hình dưới đây. Hãy cho biết khi đó sơ đồ tương đương của nó như thế nào?
+dap an la: d.
+20
+Ưu điểm chính của BJT so với FET là gì ?
+dap an la: c. hệ số khuếch đại lớn

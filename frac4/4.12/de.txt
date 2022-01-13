@@ -5,6 +5,7 @@ a. Tụ điện
 b. Điện trở
 c. Diode
 d. Transistor
+dap an la: None
 2
 Hãy cho biết tụ điện trong mạch dưới đây là loại tụ gì và có nhiệm vụ gì ?
 Select one:
@@ -12,6 +13,7 @@ a. tụ không phân cực dùng để lọc nhiễu
 b. tụ hóa có tác dụng san phẳng điện áp
 c. tụ phân cực để tích trữ năng lượng điện trường
 d. tụ phân cực dùng để ngăn dòng điện một chiều
+dap an la: None
 3
 Cho mạch điện như hình vẽ:
 
@@ -21,6 +23,7 @@ a. 6 uA
 b. 6 mA
 c. 12 uA
 d. 12 mA
+dap an la: None
 4
 Hình dưới đây mô tả cấu tạo của loại linh kiện nào ?
 Select one:
@@ -29,6 +32,7 @@ b. D-MOSFET kênh N
 c. D-MOSFET kênh P
 d. E-MOSFET kênh N
 e. E-MOSFET kênh P
+dap an la: None
 5
 Trong mạch điện tử, Điện trở là linh kiện dùng để làm gì ?
 Select one:
@@ -36,6 +40,7 @@ A. khuếch đại dòng và áp trong mạch.
 B. phân chia dòng và áp trong mạch.
 C. đóng / mở dòng trong mạch.
 D. Chỉnh lưu dòng điện trong mạch.
+dap an la: None
 6
 Trong mạch khuếch đại colecto chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
 Select one:
@@ -43,6 +48,7 @@ a. bazo và colecto
 b. colecto và bazo
 c. emito và colecto
 d. bazo và emito
+dap an la: None
 7
 Mạch khuếch đại Darlington là mạch ghép trực tiếp của các mạch nào ?
 Select one:
@@ -50,6 +56,7 @@ a. 2 mạch Emito chung
 b. Bazo chung và Emito chung
 c. 2 mạch Colecto chung
 d. Emito chung và Bazo chung
+dap an la: None
 8
 Hãy cho biết mạch dưới đây gọi là mạch gì?
 Select one:
@@ -57,6 +64,7 @@ a. khuếch đại vi sai
 b. Cascode
 c. Darlington
 d. Khuếch đại đẩy kéo
+dap an la: a. khuếch đại vi sai
 9
 Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
                                     
@@ -65,6 +73,7 @@ a. Collector chung
 b. Base chung
 c. Source chung
 d. Drain chung
+dap an la: None
 10
 Mạch khuếch đại vi sai sẽ khuếch đại ....
 Select one:
@@ -73,6 +82,7 @@ b. tín hiệu vào cửa thuận
 c. tích của hai tín hiệu vào
 d. hiệu của hai tín hiệu vào
 e. tổng của hai tín hiệu vào
+dap an la: None
 11
 Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết BJT này đang hoạt động như phần tử nào ?
 Select one:
@@ -80,6 +90,7 @@ a. chỉnh lưu
 b. khuếch đại
 c. khóa điện tử mở
 d. khóa điện tử đóng
+dap an la: None
 12
 Hãy cho biết ý nghĩa của việc xác định vị trí của điểm làm việc tĩnh của transistor trên đường tải tĩnh ?
 Select one:
@@ -87,6 +98,7 @@ a. để xác định hệ số khuếch đại xoay chiều
 b. để xác định độ ổn định nhiệt
 c. để xác định chế độ làm việc của transistor
 d. để xác định hệ số khuếch đại một chiều
+dap an la: None
 13
 Khi đặt điện áp giữa cực D và S nhưng cực G để hở thì dòng điện cũng không thể xuất hiện trong linh kiện nào sau đây ?
 Select one:
@@ -94,6 +106,7 @@ a. EMOSFET
 b. DMOSFET
 c. JFET
 d. BJT
+dap an la: a. EMOSFET
 14
 Khi transistor hoạt động như một khoá điện tử thì điểm làm việc của mạch ở miền nào?
 Select one:
@@ -101,6 +114,7 @@ a. chỉ trong miền ngắt
 b. miền ngắt chuyển sang miền bão hoà và ngược lại
 c. trong miền tích cực
 d. chỉ trong miền bão hoà
+dap an la: None
 15
 Để E-MOSFET có cấu tạo như hình dưới đây dẫn dòng thì cần điều kiện nào?
 Select one or more:
@@ -135,6 +149,7 @@ GS
 <
 V
 th
+dap an la: None
 16
 Transistor làm việc ở chế độ nào thì nó vẫn tiêu thụ dòng lớn khi chưa có tín hiệu vào ?
 Select one:
@@ -142,6 +157,7 @@ a. chế độ A
 b. chế độ C
 c. chế độ AB
 d. chế độ B
+dap an la: a. chế độ A
 17
 Mạch khuếch đại công suất có điểm làm việc tĩnh ở giữa vùng tuyến tính, tín hiệu đầu vào nhỏ thì gọi là hoạt động ở chế độ ....
 Select one:
@@ -149,6 +165,7 @@ a. AB
 b. C
 c. B
 d. A
+dap an la: None
 18
 Mạch khuếch đại công suất hoạt động ở chế độ nào có hiệu suất thấp nhất?
 Select one:
@@ -156,6 +173,7 @@ a. chế độ AB
 b. chế độ A
 c. chế độ B
 d. chế độ C
+dap an la: None
 19
 Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
 
@@ -167,6 +185,7 @@ a. méo biên
 b. méo tần số cao
 c. méo điểm 0
 d. méo hài
+dap an la: None
 20
 Trong mạch khuếch đại công suất, công suất xoay chiều trên tải được xác định theo công thức nào?
 Select one:
@@ -208,3 +227,4 @@ cc
 I
 c(p)
 π
+dap an la: None

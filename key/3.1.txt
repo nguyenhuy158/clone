@@ -1,0 +1,23 @@
+1
+Trong mạch khuếch đại emito chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: d. bazo và colecto
+5
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: d. Sơ đồ tương đương AC của mạch CB
+6
+Sơ đồ phân cực cho JFET phải đảm bảo điều kiện gì ?
+dap an la: a. các chuyển tiếp P-N phân cực ngược và hạt dẫn di chuyển từ S sang D
+11
+Hệ số khuếch đại dòng điện của mạch  khuếch đại Darlington được tính theo công thức nào dưới đây?
+dap an la: a.
+β
+1
+β
+2
+15
+Sơ đồ mạch dưới đây là mạch khuếch đại được ghép theo kiểu gì?
+dap an la: a. ghép biến áp
+20
+Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết nó hoạt động như phần tử nào ?
+dap an la: b. khóa điện tử mở

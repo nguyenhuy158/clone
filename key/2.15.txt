@@ -1,0 +1,50 @@
+1
+Tính chất dẫn điện của bán dẫn loại P là do .... quyết định.
+dap an la: c. lỗ trống
+2
+Thành phần dòng điện trong chất bán dẫn bao gồm những loại nào ?
+dap an la: d. dòng điện trôi và dòng điện khuếch tán
+4
+Chất bán dẫn loại P là chất bán dẫn có hạt dẫn thiểu số là ........ còn hạt dẫn đa số là .........
+dap an la: a. điện tử ......... lỗ trống
+5
+Linh kiện thụ động là linh kiện có đặc điểm gì ?
+dap an la: b. không cần nguồn cung cấp năng lượng riêng để hoạt động đúng chức năng của mình
+6
+Tụ điện có trở kháng tỉ lệ như thế nào với tần số của tín hiệu qua nó ?
+dap an la: C. tỉ lệ nghịch
+7
+Hình dưới đây mô tả cấu tạo của loại linh kiện nào ?
+dap an la: e. JFET kênh P
+10
+Hình dưới đây mô tả cấu tạo của loại linh kiện nào ?
+dap an la: b. E-MOSFET kênh N
+12
+Hãy cho biết ý nghĩa của việc xác định vị trí của điểm làm việc tĩnh của transistor trên đường tải tĩnh ?
+dap an la: a. để xác định chế độ làm việc của transistor
+14
+Biểu thức dưới đây mô tả hàm truyền đạt của loại linh kiện điện tử nào?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+dap an la: c. E-MOSFET
+15
+Linh kiện nào sau đây có thể làm việc ở cả hai chế độ nghèo hạt dẫn và giàu hạt dẫn ?
+dap an la: a. DMOSFET
+19
+Khi  đặt điện áp giữa cực máng D và cực nguồn S nhưng cực cửa G để hở thì kênh dẫn (dòng cực máng) cũng không xuất hiện trong các linh kiện nào  ?
+       
+dap an la: B. E-MOSFET
+20
+Khi BJT ngược (NPN) dẫn dòng thì loại hạt dẫn chính tạo nên dòng điện IC là loại hạt dẫn nào ?
+dap an la: d. điện tử

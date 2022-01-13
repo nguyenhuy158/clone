@@ -1,0 +1,9 @@
+8
+Hãy cho biết mạch dưới đây gọi là mạch gì?
+dap an la: a. khuếch đại vi sai
+13
+Khi đặt điện áp giữa cực D và S nhưng cực G để hở thì dòng điện cũng không thể xuất hiện trong linh kiện nào sau đây ?
+dap an la: a. EMOSFET
+16
+Transistor làm việc ở chế độ nào thì nó vẫn tiêu thụ dòng lớn khi chưa có tín hiệu vào ?
+dap an la: a. chế độ A

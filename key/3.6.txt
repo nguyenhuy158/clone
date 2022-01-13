@@ -1,0 +1,58 @@
+3
+Transistor thường được sử dụng trong các mạch nào sau đây?
+dap an la: f. khoá điện tử
+5
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: b.  Sơ đồ tương đương AC của mạch Collector chung
+7
+Hãy cho biết nếu BJT được mắc theo kiểu Colecto chung thì đưa tín hiệu vào và lấy tín hiệu ra như thế nào ?
+dap an la: c. tín hiệu vào giữa B và C; lấy ra giữa E và C
+9
+Khi BJT ngược (NPN) dẫn dòng thì loại hạt dẫn chính tạo nên dòng điện IC là loại hạt dẫn nào ?
+dap an la: a. điện tử
+10
+Biểu thức dưới đây mô tả hàm truyền đạt của loại linh kiện điện tử nào?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+dap an la: c. E-MOSFET
+11
+Dòng điện trong transistor BJT do loại hạt dẫn nào tạo nên ?
+dap an la: a. điện tử và lỗ trống
+13
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+dap an la: b. Lặp Emitter
+14
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: b. Sơ đồ tương đương AC của mạch Drain chung
+16
+Trong mạch khuếch đại colecto chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: a. bazo và emito
+18
+Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết BJT này đang hoạt động như phần tử nào ?
+dap an la: b. khóa điện tử đóng
+19
+Mạch khuếch đại cần được cung cấp năng lượng bởi ........
+dap an la: b. nguồn dc và ac.
+20
+Để E-MOSFET có cấu tạo như hình dưới đây dẫn dòng thì cần điều kiện nào?
+dap an la: b.
+V
+GS
+>
+V
+th
+>0

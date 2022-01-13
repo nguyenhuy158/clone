@@ -1,0 +1,27 @@
+7
+Hãy cho biết sơ đồ tương đương AC tín hiệu nhỏ, tần số thấp dưới đây thường được sử dụng cho kiểu mắc transistor nào?
+                                    
+dap an la: b. Base chung
+8
+Trong mạch khuếch đại emito chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: c. bazo và colecto
+10
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: a. Sơ đồ tương đương AC của mạch CB
+11
+Chọn phát biểu đúng nhất trong các phát biểu sau:
+Transistor có thể hoạt động như các phần tử ........
+dap an la: d. chỉnh lưu, khuếch đại, khóa điện tử
+13
+Hiện tượng pinch-off trong JFET xảy ra khi nào?
+dap an la: b. dòng cực máng bão hòa và Vgs=0
+17
+Trong mạch công suất chế độ B, VCC là điện áp nguồn cấp một chiều, VL(p) là biên độ của điện áp xoay chiều trên tải,  công suất tiêu tán trên Transistor là lớn nhất khi VL(p) có giá trị là bao nhiêu?
+dap an la: a.
+0,636
+V
+cc
+20
+Hiệu suất cực đại của mạch khuếch đại công suất chế độ B là bao nhiêu ?
+dap an la: b. 78,5 %

@@ -1,0 +1,41 @@
+1
+Khi transistor hoạt động như một khoá điện tử thì điểm làm việc của mạch ở miền nào?
+dap an la: c. miền ngắt chuyển sang miền bão hoà và ngược lại
+2
+Chọn phát biểu ĐÚNG NHẤT trong các đáp án.
+Chế độ hoạt động của transistor BJT phụ thuộc vào điều gì sau đây ?
+dap an la: a. trạng thái phân cực của 2 chuyển tiếp P-N
+3
+Mạch dưới đây có hệ số khuếch đại thay đổi như thế nào so với khi không có tải?
+dap an la: b. Giảm
+4
+Một mạch khuếch đại nhiều tầng được mô tả như hình dưới đây. Hãy cho biết hệ số khuếch đại của toàn mạch được tính theo công thức nào?
+dap an la: c.
+K
+1
+×
+K
+2
+×...×
+K
+n
+6
+Hình dưới đây mô tả đặc tuyến nào của mạch khuếch đại ?
+dap an la: d. biên độ - tần số
+8
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: a.  Sơ đồ tương đương AC của mạch Collector chung
+9
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+dap an la: b. Source chung
+16
+Hình dưới đây mô tả một JFET đang hoạt động, giả sử điện áp VDS cố định hãy cho biết dòng cực máng ID có đặc điểm gì ?
+dap an la: b. được điều khiển bởi điện áp VGS
+18
+Mạch khuếch đại vi sai sẽ khuếch đại ....
+dap an la: b. hiệu của hai tín hiệu vào
+20
+Trong mạch khuếch đại bazo chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: b. emito và colecto

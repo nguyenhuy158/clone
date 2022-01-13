@@ -1,0 +1,44 @@
+1
+Linh kiện nào sau đây chỉ hoạt động ở chế độ giàu hạt dẫn?
+       
+dap an la: c. E-MOSFET
+2
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: b. Sơ đồ tương đương AC của mạch CE
+5
+Transistor BJT hoạt động như phần tử khuếch đại nếu trạng thái phân cực của chuyển tiếp emito và chuyển tiếp colecto là như thế nào ?
+dap an la: a. thuận / ngược
+7
+Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết BJT này đang hoạt động như phần tử nào ?
+dap an la: b. khóa điện tử đóng
+10
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+dap an la: b. mạch khuếch đại mắc kiểu emito chung
+16
+Hãy cho biết trong sơ đồ mắc BJT theo kiểu Emito chung thì đưa tín hiệu vào và lấy tín hiệu ra như thế nào ?
+dap an la: c. tín hiệu vào giữa B và E; lấy ra giữa C và E
+18
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: c. Sơ đồ tương đương AC của mạch CB
+19
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+dap an la: d. Source chung
+20
+Hãy cho biết biểu thức dưới đây biểu diễn cách tính thông số nào ?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+dap an la: c. dòng cực máng của EMOSFET

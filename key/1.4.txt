@@ -1,0 +1,42 @@
+2
+Chất bán dẫn loại N là chất bán dẫn có hạt dẫn đa số là ....... còn hạt dẫn thiểu số là .......
+dap an la: a. điện tử ........ lỗ trống
+5
+Nguyên tắc hoạt động của biến áp dựa trên hiện tượng nào ?
+dap an la: D. cảm ứng điện từ
+7
+Cuộn dây có trở kháng tỉ lệ như thế nào với tần số của dòng điện qua nó ?
+dap an la: b. tỉ lệ thuận
+8
+Trong sơ đồ mạch sau, tụ điện đang trong quá trình nào ? thời gian của quá trình này phụ thuộc vào giá trị nào ?
+dap an la: d. tụ đang phóng, thời gian phóng phụ thuộc vào giá trị của điện trở và điện dung của tụ
+9
+Chất bán dẫn loại N là chất bán dẫn được hình thành bằng cách pha tạp chất thuộc nhóm mấy vào bán dẫn thuần ?
+dap an la: c. V
+10
+Tính chất dẫn điện của bán dẫn loại N là do .... quyết định.
+dap an la: d. điện tử
+11
+Điện trở có cấu trúc được biểu diễn như hình dưới đây là loại điện trở nào ?
+dap an la: d. điện trở than
+12
+Thông số cơ bản của điện trở bao gồm:
+dap an la: c. Giá trị điện trở
+13
+Các điện trở thực tế được sản xuất theo các giá trị chuẩn với các họ chính là gì ?
+dap an la: c. E6, E12, E24, E48, E96, E128
+14
+Hãy cho biết thông số của điện trở sau ?
+dap an la: c. 5,6 KOhm +/- 5%
+15
+Ở điều kiện nhiệt độ phòng, chất bán dẫn có khả năng nào sau đây ?
+dap an la: c. dẫn điện như một chất dẫn điện tốt
+16
+Cuộn dây có trở kháng tỉ lệ như thế nào với tần số của dòng điện qua nó ?
+dap an la: b. tỉ lệ thuận
+17
+Trong sơ đồ mạch sau, tụ điện đang trong quá trình nào ? thời gian của quá trình này phụ thuộc vào giá trị nào ?
+dap an la: c. tụ đang phóng, thời gian phóng phụ thuộc vào giá trị của điện trở và điện dung của tụ
+18
+Tụ điện có trở kháng tỉ lệ như thế nào với tần số của tín hiệu qua nó ?
+dap an la: B. tỉ lệ nghịch

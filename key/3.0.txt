@@ -1,0 +1,22 @@
+1
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+dap an la: c. Emitter chung
+8
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+dap an la: d. mạch khuếch đại mắc kiểu emito chung
+9
+Transistor hiệu ứng trường (FET) là linh kiện loại nào và được điều khiển bằng gì ?
+dap an la: b. linh kiện tích cực, điều khiển bằng điện áp
+11
+Trong mạch khuếch đại colecto chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: d. bazo và emito
+15
+Hãy cho biết hình dưới đây biểu diễn cấu tạo của linh kiện nào ?
+dap an la: d. EMOSFET
+16
+Hãy cho biết mạch dưới đây là mạch khuếch đại ghép tầng kiểu gì?
+dap an la: b. dùng tụ điện
+18
+Hãy cho biết hình dưới đây biểu diễn cấu tạo của linh kiện nào ?
+dap an la: d. JFET

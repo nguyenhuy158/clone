@@ -1,0 +1,53 @@
+1
+Transistor BJT là linh kiện tích cực được điều khiển bằng ...... còn FET được điều khiển bằng .........
+
+           
+dap an la: b. dòng điện ...... điện áp
+2
+Hình dưới đây biểu thị trạng thái hoạt động của một Transistor BJT, hãy cho biết BJT này đang hoạt động như phần tử nào ?
+dap an la: d. khuếch đại
+3
+Biểu thức dưới đây mô tả hàm truyền đạt của loại linh kiện điện tử nào?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+dap an la: d. E-MOSFET
+4
+Hãy cho biết hình dưới đây biểu diễn cấu tạo của linh kiện nào ?
+dap an la: a. JFET
+7
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+dap an la: c. Base chung
+8
+Hãy cho biết JFET kênh P khi dẫn dòng thì hạt dẫn chạy trong kênh dẫn là loại nào?
+       
+dap an la: d. chỉ là lỗ trống
+11
+Mạch khuếch đại collector chung có đặc điểm nào sau đây?
+dap an la: d. hệ số khuếch đại dòng điện lớn (>> 1)
+13
+Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết BJT này đang hoạt động như phần tử nào ?
+dap an la: c. khóa điện tử đóng
+15
+Trong mạch khuếch đại, biến áp thường có vai trò gì ?
+dap an la: d. phối hợp trở kháng
+16
+Mạch khuếch đại emito chung có đặc điểm nào sau đây?
+dap an la: c. trở kháng ra cao
+18
+Trong mạch khuếch đại emito chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: d. bazo và colecto
+20
+Transistor hiệu ứng trường (FET) là linh kiện loại nào và được điều khiển bằng gì ?
+dap an la: c. linh kiện tích cực, điều khiển bằng điện áp

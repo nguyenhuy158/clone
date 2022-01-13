@@ -1,0 +1,35 @@
+1
+Trong kỹ thuật điện tử, vật liệu cách điện thường được sử dụng để làm gì ?
+dap an la: d. vỏ bọc dây dẫn điện
+2
+Chọn phát biểu SAI trong các phát biểu sau. Tụ điện thường được dùng để làm gì ?
+dap an la: a. chỉnh lưu dòng điện xoay chiều
+4
+Trên thân của một điện trở than có các vòng màu lần lượt là Vàng, Tím, Đỏ, Bạc kim. Hãy cho biết thông số của điện trở này
+dap an la: a. 4700 Ohm +/- 10%
+5
+Nguyên tắc hoạt động của biến áp dựa trên hiện tượng nào ?
+dap an la: A. cảm ứng điện từ
+12
+Biểu thức dưới đây mô tả hàm truyền đạt của loại linh kiện điện tử nào?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+dap an la: b. E-MOSFET
+17
+Hãy cho biết hình dưới đây biểu diễn cấu tạo của linh kiện nào ?
+dap an la: c. EMOSFET
+20
+Linh kiện nào sau đây chỉ hoạt động ở chế độ giàu hạt dẫn?
+       
+dap an la: d. D-MOSFET

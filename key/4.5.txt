@@ -1,0 +1,23 @@
+5
+Cảm kháng là gì ? được tính theo công thức nào ?
+dap an la: a. Cảm kháng là đại lượng biểu thị sự cản trở dòng xoay chiều của cuộn dây và được tính theo công thức XL = jwL
+6
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: b. Sơ đồ tương đương AC của mạch Drain chung
+10
+Hãy cho biết cách đưa tín hiệu vào và lấy tín hiệu ra trong sơ đồ mắc BJT kiểu Bazo chung
+dap an la: a. tín hiệu vào giữa B và E; lấy ra giữa C và B
+12
+Transistor BJT hoạt động như phần tử khuếch đại nếu trạng thái phân cực của chuyển tiếp emito và chuyển tiếp colecto là như thế nào ?
+dap an la: c. thuận / ngược
+13
+Một mạch cấp nguồn cho transistor như hình dưới đây. Hãy cho biết khi đó sơ đồ tương đương của nó như thế nào?
+dap an la: b.
+19
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+Nếu tín hiệu ra có dạng:
+
+thì mạch khuếch đại hoạt động ở chế độ nào ?
+dap an la: d. AB

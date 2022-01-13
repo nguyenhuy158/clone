@@ -1,0 +1,43 @@
+1
+Tính chất dẫn điện của bán dẫn loại P là do .... quyết định.
+dap an la: d. lỗ trống
+2
+Khi có 2 mạch điện cần nối với nhau, nếu muốn chỉ có tín hiệu xoay chiều từ mạch trước được đưa sang mạch sau thì nên làm thế nào ?
+dap an la: d. dẫn tín hiệu qua tụ điện hoặc biến áp
+3
+Ở điều kiện nhiệt độ phòng, chất bán dẫn có khả năng nào sau đây ?
+dap an la: a. dẫn điện như một chất dẫn điện tốt
+7
+Cuộn dây có trở kháng tỉ lệ như thế nào với tần số của dòng điện qua nó ?
+dap an la: b. tỉ lệ thuận
+8
+Hãy kể tên một số loại vật liệu cách điện
+dap an la: c. Gốm, mica, giấy, len khô
+9
+Chất bán dẫn loại N là chất bán dẫn có hạt dẫn đa số là ....... còn hạt dẫn thiểu số là .......
+dap an la: a. điện tử ........ lỗ trống
+10
+Chất bán dẫn loại N là chất bán dẫn được hình thành bằng cách pha tạp chất thuộc nhóm mấy vào bán dẫn thuần ?
+dap an la: c. V
+11
+Tính chất dẫn điện của bán dẫn loại N là do .... quyết định.
+dap an la: b. điện tử
+13
+Hãy cho biết điện trở sau có giá trị bao nhiêu ?
+dap an la: d. 5,6 KOhm
+14
+Hãy cho biết thông số của điện trở sau ?
+dap an la: d. 5,6 KOhm +/- 5%
+16
+Điện trở có cấu tạo được mô tả như trong hình dưới đây là loại nào ?
+dap an la: c. điện trở dây quấn
+18
+Điện trở có cấu trúc được biểu diễn như hình dưới đây là loại điện trở nào ?
+dap an la: b. điện trở than
+19
+Hãy đọc tên các loại tụ điện trong hình dưới đây theo thứ tự từ trái qua phải.
+                  
+dap an la: b. tụ dán bề mặt, tụ xoay, tụ mica và tụ hóa
+20
+Hãy đọc giá trị của điện trở cho trong hình dưới đây.
+dap an la: b. 820 Ohm +/- 5%

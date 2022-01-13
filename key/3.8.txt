@@ -1,0 +1,23 @@
+1
+Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết nó hoạt động như phần tử nào ?
+dap an la: a. khóa điện tử mở
+2
+Chọn phát biểu đúng nhất trong các phát biểu sau:
+Transistor có thể hoạt động như các phần tử ........
+dap an la: d. chỉnh lưu, khuếch đại, khóa điện tử
+3
+Mạch khuếch đại Cascode là mạch ghép trực tiếp của các mạch nào ?
+dap an la: c. Emito chung và Bazo chung
+8
+Mạch khuếch đại sẽ tạo ra năng lượng trên tải có quy luật biến thiên theo ...
+dap an la: c. nguồn tín hiệu ac.
+10
+Chọn phát biểu ĐÚNG NHẤT trong các đáp án.
+Chế độ hoạt động của transistor BJT phụ thuộc vào điều gì sau đây ?
+dap an la: c. trạng thái phân cực của 2 chuyển tiếp P-N
+11
+Khi cần thiết kế mạch khuếch đại có công suất nhỏ, tần số thấp, người ta nên chọn loại linh kiện nào sau đây ?
+dap an la: d. BJT
+19
+Khi BJT thuận (PNP) dẫn dòng thì loại hạt dẫn chính tạo nên dòng điện IC là loại hạt dẫn nào ?
+dap an la: a. lỗ trống

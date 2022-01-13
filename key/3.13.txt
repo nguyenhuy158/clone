@@ -1,0 +1,44 @@
+1
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+dap an la: a. Emitter chung
+4
+Biểu thức dưới đây mô tả hàm truyền đạt của loại linh kiện điện tử nào?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+dap an la: a. E-MOSFET
+6
+Hãy cho biết cách đưa tín hiệu vào và lấy tín hiệu ra trong sơ đồ mắc BJT kiểu Bazo chung
+dap an la: a. tín hiệu vào giữa B và E; lấy ra giữa C và B
+8
+Hãy cho biết hình dưới đây biểu diễn cấu tạo của linh kiện nào ?
+dap an la: b. EMOSFET
+9
+Khi transistor hoạt động như một khoá điện tử thì điểm làm việc của mạch ở miền nào?
+dap an la: b. miền ngắt chuyển sang miền bão hoà và ngược lại
+10
+Sơ đồ mạch dưới đây là mạch khuếch đại được ghép theo kiểu gì?
+dap an la: c. ghép biến áp
+12
+Hãy cho biết linh kiện có cấu tạo như hình dưới đây là linh kiện nào ?
+dap an la: c. DMOSFET
+14
+Hiện tượng pinch-off trong JFET xảy ra khi nào?
+dap an la: b. dòng cực máng bão hòa và Vgs=0
+17
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+dap an la: a. mạch khuếch đại mắc kiểu emito chung
+20
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+dap an la: a. mạch khuếch đại mắc kiểu emito chung

@@ -1,0 +1,22 @@
+1
+Tác dụng chính của điện trở trong mạch điện là gì ?
+dap an la: c. ngăn cản sự lưu thông của dòng điện để xác định mức dòng và áp trong mạch
+8
+Phát biểu sau ĐÚNG hay SAI ?
+Có thể tìm được điện trở được sản xuất với bất kỳ giá trị nào.
+dap an la: a. sai
+9
+Khi cần chia nhỏ dòng / điện áp một chiều người ta có thể sử dụng linh kiện nào ?
+dap an la: a. điện trở
+10
+Một biến áp có cuộn thứ cấp nối với tải 8 Ohm, biến áp này cần có tỉ số vòng dây sơ cấp / vòng dây thứ cấp là bao nhiêu để điện trở phản ánh về cuộn sơ cấp là 3,2 KOhm ?
+dap an la: a. 20:1
+16
+Chọn phát biểu SAI trong các phát biểu sau. Tụ điện thường được dùng để làm gì ?
+dap an la: a. chỉnh lưu dòng điện xoay chiều
+17
+Khi có 2 mạch điện cần nối với nhau, nếu muốn chỉ có tín hiệu xoay chiều từ mạch trước được đưa sang mạch sau thì nên làm thế nào ?
+dap an la: a. dẫn tín hiệu qua tụ điện hoặc biến áp
+19
+Trong kỹ thuật điện tử, vật liệu cách điện thường được sử dụng để làm gì ?
+dap an la: a. vỏ bọc dây dẫn điện

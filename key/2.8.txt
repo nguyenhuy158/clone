@@ -1,0 +1,13 @@
+5
+Trong sơ đồ sau, tụ điện đang được ....... và thời gian thực hiện quá trình này phụ thuộc vào ......
+dap an la: b. ......... nạp điện ....... giá trị của điện trở và điện dung của tụ
+9
+Hãy cho biết hình dưới đây biểu diễn đặc tuyến truyền đạt của loại linh kiện nào?
+ 
+dap an la: d. E-MOSFET
+10
+Transistor có 3 chế độ hoạt động cơ bản là ........
+dap an la: c. ngắt, tích cực và dẫn bão hòa
+16
+Hiện tượng pinch-off trong JFET xảy ra khi nào?
+dap an la: b. dòng cực máng bão hòa và Vgs=0

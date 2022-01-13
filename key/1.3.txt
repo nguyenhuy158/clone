@@ -1,0 +1,24 @@
+3
+Chất bán dẫn loại P là chất bán dẫn có hạt dẫn thiểu số là ........ còn hạt dẫn đa số là .........
+dap an la: b. điện tử ......... lỗ trống
+7
+Chọn đáp án ĐÚNG NHẤT
+Khi cần chia dòng / điện áp xoay chiều người ta có thể sử dụng loại linh kiện nào ?
+dap an la: c. điện trở, tụ điện, cuộn dây, biến áp
+9
+Phát biểu sau ĐÚNG hay SAI ?
+Một diode chỉnh lưu không thể hoạt động lại bình thường nếu bị đánh thủng vì điện.
+dap an la: b. đúng
+12
+Dòng điện có tần số càng thấp thì ... qua tụ điện:
+dap an la: C. càng khó
+18
+Chọn phát biểu SAI trong các phát biểu sau. Tụ điện thường được dùng để làm gì ?
+dap an la: b. chỉnh lưu dòng điện xoay chiều
+19
+Cho một nguồn điện áp 9VDC mắc với một điện trở có trị số là R, để lấy được điện áp 12VDC từ mạch điện trên người ta phải làm gì ?
+dap an la: b. không thể lấy được điện áp 12VDC từ mạch điện đó
+20
+Chọn đáp án ĐÚNG NHẤT
+Khi cần chia dòng / điện áp xoay chiều người ta có thể sử dụng loại linh kiện nào ?
+dap an la: a. điện trở, tụ điện, cuộn dây, biến áp

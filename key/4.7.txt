@@ -1,0 +1,9 @@
+10
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+dap an la: a. mạch ghép tầng kiểu biến áp
+11
+Transistor BJT hoạt động như một khóa điện tử mở khi trạng thái phân cực của chuyển tiếp emito và chuyển tiếp colecto như thế nào ?
+dap an la: a. ngược / ngược
+12
+Dòng điện trong transistor BJT do loại hạt dẫn nào tạo nên ?
+dap an la: a. điện tử và lỗ trống

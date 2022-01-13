@@ -1,0 +1,41 @@
+1
+Hãy cho biết thông số của tụ điện cho trong hình dưới đây.
+dap an la: c. điện dung 4,7 nF; điện áp chịu đựng 1 KVDC
+2
+Một biến áp có tỉ số vòng dây là 100:5 ,giả sử dòng điện và điện áp đầu vào là 1A và 220 VAC vậy dòng điện và điện áp đầu ra có giá trị bao nhiêu ?
+dap an la: D. 20A và 11VAC.
+3
+Người ta thường chế tạo điện trở có giá trị bao nhiêu ?
+dap an la: b. theo chuẩn E6, E12, E24 ... với các giá trị xác định và bội số của chúng
+4
+Hãy kể tên một số loại vật liệu bán dẫn
+dap an la: d. GaAs, Si, GaP
+5
+Hãy đọc tên các linh kiện điện tử được biểu diễn trong hình sau theo thứ tự từ trái qua phải
+             
+dap an la: a. điện trở carbon, tụ mica, điện trở SMD, tụ màng mỏng, biến trở
+6
+Khi muốn lấy được một điện áp nhỏ từ điện áp một chiều lớn hơn thì người ta cần làm gì ?
+dap an la: c. mắc thêm một điện trở nối tiếp với đoạn mạch ban đầu
+8
+Trong kỹ thuật điện tử, biến áp thường được sử dụng để làm gì ?
+dap an la: b. biến đổi độ lớn của điện áp xoay chiều theo một hệ số nhất định
+9
+Hãy cho biết điện trở dưới đây có giá trị bao nhiêu ?
+dap an la: d. 100 KOhm
+11
+Hãy cho biết linh kiện có cấu tạo như hình dưới đây là linh kiện nào ?
+dap an la: b. DMOSFET
+13
+Khi muốn transistor BJT làm việc như một phần tử khuếch đại đơn người ta thường phân cực cho nó để điểm làm việc tĩnh nằm ở vị trí nào trên đường tải tĩnh ?
+dap an la: a. nằm giữa vùng tích cực
+14
+Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết BJT này đang hoạt động như phần tử nào ?
+dap an la: c. khóa điện tử đóng
+17
+Linh kiện nào sau đây chỉ hoạt động ở chế độ giàu hạt dẫn?
+       
+dap an la: c. E-MOSFET
+20
+Transistor thường được sử dụng trong các mạch nào sau đây?
+dap an la: f. khoá điện tử

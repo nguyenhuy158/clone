@@ -1,0 +1,14 @@
+11
+Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết nó hoạt động như phần tử nào ?
+dap an la: a. khóa điện tử mở
+13
+Hãy cho biết linh kiện có cấu tạo như hình dưới đây là linh kiện nào ?
+dap an la: c. DMOSFET
+15
+Hiện tượng ngắt kênh dẫn trong FET xảy ra khi nào ?
+dap an la: c. dòng cực máng biến mất (bằng 0) khi điện áp 
+V
+GS
+=
+V
+P

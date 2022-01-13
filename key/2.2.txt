@@ -1,0 +1,26 @@
+3
+Cho điện trở có vòng màu như sau, hãy xác định giá trị của điện trở
+dap an la: a. 470 Ohm 10%
+12
+Transistor thường được sử dụng trong các mạch nào sau đây?
+dap an la: f. khoá điện tử
+15
+Chọn phát biểu đúng nhất trong các phát biểu sau:
+Transistor có thể hoạt động như các phần tử ........
+dap an la: b. chỉnh lưu, khuếch đại, khóa điện tử
+16
+Hãy cho biết biểu thức dưới đây biểu diễn cách tính thông số nào ?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+dap an la: d. dòng cực máng của EMOSFET

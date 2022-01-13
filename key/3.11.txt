@@ -1,0 +1,24 @@
+3
+Hãy cho biết cách đưa tín hiệu vào và lấy tín hiệu ra trong sơ đồ mắc BJT kiểu Bazo chung
+dap an la: b. tín hiệu vào giữa B và E; lấy ra giữa C và B
+4
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+dap an la: d. mạch ghép tầng kiểu biến áp
+6
+Trong mạch khuếch đại colecto chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: a. bazo và emito
+8
+Hình dưới đây mô tả một JFET đang hoạt động, giả sử điện áp VDS cố định hãy cho biết dòng cực máng ID có đặc điểm gì ?
+dap an la: c. được điều khiển bởi điện áp VGS
+16
+Để E-MOSFET có cấu tạo như hình dưới đây dẫn dòng thì cần điều kiện nào?
+dap an la: b.
+V
+DS
+>0
+18
+Hãy cho biết ý nghĩa của việc xác định vị trí của điểm làm việc tĩnh của transistor trên đường tải tĩnh ?
+dap an la: a. để xác định chế độ làm việc của transistor
+19
+Hình dưới đây mô tả đặc tuyến nào của mạch khuếch đại ?
+dap an la: c. biên độ - tần số

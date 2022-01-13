@@ -1,0 +1,62 @@
+1
+Hãy cho biết biểu thức dưới đây biểu diễn cách tính thông số nào ?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+dap an la: a. dòng cực máng của EMOSFET
+2
+Các mạch khuếch đại bán dẫn ghép trực tiếp có đặc điểm gì?
+dap an la: b. Chế độ một chiều của các mạch có ảnh hưởng đến nhau
+4
+Hiện tượng ngắt kênh dẫn trong FET xảy ra khi nào ?
+dap an la: a. dòng cực máng biến mất (bằng 0) khi điện áp 
+V
+GS
+=
+V
+P
+6
+Khi muốn transistor BJT làm việc như một phần tử khuếch đại đơn người ta thường phân cực cho nó để điểm làm việc tĩnh nằm ở vị trí nào trên đường tải tĩnh ?
+dap an la: c. nằm giữa vùng tích cực
+8
+Hình dưới đây biểu diễn điều gì?
+dap an la: d. đặc tuyến truyền đạt và họ đặc tuyến ra của JFET
+9
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+dap an la: b. Source chung
+10
+Linh kiện nào sau đây có thể làm việc ở cả hai chế độ nghèo hạt dẫn và giàu hạt dẫn ?
+dap an la: c. DMOSFET
+12
+Hiện tượng pinch-off trong JFET xảy ra khi nào?
+dap an la: b. dòng cực máng bão hòa và Vgs=0
+13
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: b. Sơ đồ tương đương AC của mạch cực nguồn chung
+14
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+dap an la: b. mạch ghép tầng kiểu RC
+15
+Hình dưới đây biểu diễn điều gì?
+dap an la: d. đặc tuyến truyền đạt và họ đặc tuyến ra của E-MOSFET
+17
+Hãy cho biết cách đưa tín hiệu vào và lấy tín hiệu ra trong sơ đồ mắc BJT kiểu Bazo chung
+dap an la: d. tín hiệu vào giữa B và E; lấy ra giữa C và B
+18
+Mạch khuếch đại base chung có đặc điểm nào sau đây?
+dap an la: c. trở kháng ra cao
+20
+Mạch khuếch đại vi sai sẽ khuếch đại ....
+dap an la: c. hiệu của hai tín hiệu vào

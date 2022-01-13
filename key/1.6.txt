@@ -1,0 +1,12 @@
+4
+Chất bán dẫn loại P là chất bán dẫn có hạt dẫn thiểu số là ........ còn hạt dẫn đa số là .........
+dap an la: a. điện tử ......... lỗ trống
+10
+Hãy kể tên một số loại vật liệu bán dẫn
+dap an la: c. GaAs, Si, GaP
+13
+Linh kiện thụ động là linh kiện có đặc điểm gì ?
+dap an la: b. không cần nguồn cung cấp năng lượng riêng để hoạt động đúng chức năng của mình
+18
+Hãy đọc tên các linh kiện có trong hình dưới đây theo thứ tự từ trái qua phải.
+dap an la: b. biến trở, nhiệt trở và quang trở

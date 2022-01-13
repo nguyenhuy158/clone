@@ -1,0 +1,52 @@
+4
+Phát biểu sau ĐÚNG hay SAI ?
+Có thể tìm được điện trở được sản xuất với bất kỳ giá trị nào.
+dap an la: a. sai
+6
+Hãy đọc tên các linh kiện điện tử được biểu diễn trong hình sau theo thứ tự từ trái qua phải
+             
+dap an la: c. điện trở carbon, tụ mica, điện trở SMD, tụ màng mỏng, biến trở
+9
+Điện trở có cấu tạo được mô tả như trong hình dưới đây là loại nào ?
+dap an la: d. điện trở dây quấn
+10
+Trong mạch điện tử, các linh kiện nào sau đây có thể sử dụng để khuếch đại tín hiệu ?
+dap an la: d. FET
+11
+Transistor thường được sử dụng trong các mạch nào sau đây?
+dap an la: f. chỉnh lưu dòng điện xoay chiều
+12
+Transistor lưỡng cực (BJT) là linh kiện loại nào và được điều khiển bằng gì ?
+dap an la: c. linh kiện tích cực, điều khiển bằng dòng điện
+13
+Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết nó hoạt động như phần tử nào ?
+dap an la: a. khóa điện tử mở
+15
+Khi  đặt điện áp giữa cực máng D và cực nguồn S nhưng cực cửa G để hở thì kênh dẫn (dòng cực máng) cũng không xuất hiện trong các linh kiện nào  ?
+       
+dap an la: C. E-MOSFET
+16
+Hãy cho biết linh kiện có cấu tạo như hình dưới đây là linh kiện nào ?
+dap an la: a. DMOSFET
+17
+Hãy cho biết hình dưới đây biểu diễn cấu tạo của linh kiện nào ?
+dap an la: a. JFET
+19
+Biểu thức dưới đây mô tả hàm truyền đạt của loại linh kiện điện tử nào?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+dap an la: c. E-MOSFET
+20
+Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết BJT này đang hoạt động như phần tử nào ?
+dap an la: c. khóa điện tử đóng

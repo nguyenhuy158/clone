@@ -36,7 +36,7 @@ driver.get(
 time.sleep(2)
 questions = driver.find_elements_by_css_selector(".que.multichoice")
 # questions = driver.find_elements_by_xpath("//*[@class='multichoice' or @class='jsb']")
-
+# questions[0].get_attribute("checked")
 output = ""
 print(questions)
 for i in questions:
@@ -50,6 +50,29 @@ for i in questions:
     block = i.find_element_by_css_selector(".ablock")
     print("content", block.text)
     print("")
+
+    isTrue = i.find_element_by_css_selector(".grade")
+    isCorrect = None
+    print("isTrue", isTrue.text)
+    if isTrue.text == "Đạt điểm 1,00 trên 1,00":
+        keys = block.find_elements_by_tag_name("input")
+        # print(keys)
+        # print(len(keys))
+        for index in range(len(keys)):
+            # print("index", keys[index])
+            print("key = ", keys[index].get_attribute("checked"), "index", index)
+            # if index.get_attribute("checked")
+            if keys[index].get_attribute("checked") == "true":
+                for label in i.find_elements_by_tag_name("label"):
+                    if label.get_attribute("for") == keys[index].get_attribute("id"):
+                        isCorrect = label.text
+                    print(
+                        "isCorrect",
+                        keys[index].get_attribute("id"),
+                        label.get_attribute("for") == keys[index].get_attribute("id"),
+                        label.text,
+                        isCorrect,
+                    )
     try:
         imgs = i.find_elements_by_tag_name("img")
         count = 0
@@ -70,7 +93,12 @@ for i in questions:
     output += "\n"
     output += str(block.text)
     output += "\n"
+    # output += isCorrect if isCorrect != None else "Ai ma biet"
+    output += "dap an la: " + str(isCorrect)
+    output += "\n"
 
+
+# output to file
 with open(f"{parent}/de.txt", "w", encoding="utf-8") as file:
     file.write(output)
 

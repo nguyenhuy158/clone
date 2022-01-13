@@ -1,0 +1,46 @@
+1
+Trong mạch khuếch đại colecto chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: b. bazo và emito
+2
+Hình vẽ dưới đây biểu diễn gì ?
+dap an la: b. a) họ đặc tuyến vào và b) họ đặc tuyến ra của BJT.
+4
+Sơ đồ mạch dưới đây là mạch khuếch đại được ghép theo kiểu gì?
+dap an la: a. ghép biến áp
+5
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+dap an la: d. Emitter chung
+7
+Chọn phát biểu đúng nhất trong các phát biểu sau:
+Transistor có thể hoạt động như các phần tử ........
+dap an la: d. chỉnh lưu, khuếch đại, khóa điện tử
+8
+Transistor BJT hoạt động như phần tử khuếch đại nếu trạng thái phân cực của chuyển tiếp emito và chuyển tiếp colecto là như thế nào ?
+dap an la: a. thuận / ngược
+9
+Khi FET dẫn dòng thì hạt dẫn sẽ xuất phát từ ...... đến .........
+dap an la: b. cực nguồn ... cực máng dưới sự điều khiển của điện áp VGS
+10
+Hãy cho biết mạch dưới đây gọi là mạch gì?
+dap an la: b. khuếch đại vi sai
+11
+Muốn transistor làm việc như một phần tử khuếch đại người ta thường chọn điểm làm việc tĩnh ở giữa đường tải tĩnh để làm gì ?
+dap an la: a. tín hiệu ra có biên độ lớn nhất mà không bị méo dạng
+12
+Hình vẽ dưới đây biểu diễn sơ đồ khuếch đại mắc theo kiểu gì?
+                                    
+dap an la: b. Lặp Emitter
+13
+Khi BJT ngược (NPN) dẫn dòng thì loại hạt dẫn chính tạo nên dòng điện IC là loại hạt dẫn nào ?
+dap an la: d. điện tử
+17
+Mạch khuếch đại cần được cung cấp năng lượng bởi ........
+dap an la: b. nguồn dc và ac.
+19
+Hãy cho biết linh kiện có cấu tạo như hình dưới đây là linh kiện nào ?
+dap an la: b. DMOSFET
+20
+Hãy cho biết khi đặt điện áp VGS tăng dần về phía dương thì kênh dẫn trong JFET kênh P thay đổi như thế nào?
+       
+dap an la: d. hẹp dần về phía D

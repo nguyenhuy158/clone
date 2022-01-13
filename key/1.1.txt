@@ -1,0 +1,44 @@
+1
+Phát biểu sau ĐÚNG hay SAI ?
+Có thể tìm được điện trở được sản xuất với bất kỳ giá trị nào.
+dap an la: b. sai
+2
+Chọn phát biểu sai trong các phát biểu sau:
+Tụ điện được sử dụng trong các mạch .............
+dap an la: b. biến đổi giá trị dòng điện, điện áp một chiều
+3
+Người ta thường chế tạo điện trở có giá trị bao nhiêu ?
+dap an la: a. theo chuẩn E6, E12, E24 ... với các giá trị xác định và bội số của chúng
+4
+Chất bán dẫn loại P là chất bán dẫn được hình thành bằng cách pha vào bán dẫn thuần tạp chất thuộc nhóm mấy ?
+dap an la: b. III
+5
+Trong sơ đồ sau, tụ điện đang được ....... và thời gian thực hiện quá trình này phụ thuộc vào ......
+dap an la: d. ......... nạp điện ....... giá trị của điện trở và điện dung của tụ
+7
+Tụ điện có trở kháng tỉ lệ như thế nào với tần số của tín hiệu qua nó ?
+dap an la: C. tỉ lệ nghịch
+8
+Hãy kể tên một số loại vật liệu cách điện
+dap an la: d. Gốm, mica, giấy, len khô
+10
+Trong kỹ thuật điện tử, biến áp thường được sử dụng để làm gì ?
+dap an la: b. biến đổi độ lớn của điện áp xoay chiều theo một hệ số nhất định
+11
+Dòng  điện có tần số càng thấp thì  ... qua cuộn dây:
+dap an la: A. càng dễ
+12
+Hãy cho biết điện trở sau có giá trị bao nhiêu ?
+dap an la: d. 5,6 KOhm
+15
+Cho điện trở có vòng màu như sau, hãy xác định giá trị của điện trở
+dap an la: b. 470 Ohm 10%
+16
+Hãy kể tên một số loại vật liệu bán dẫn
+dap an la: c. GaAs, Si, GaP
+18
+Tác dụng chính của điện trở trong mạch điện là gì ?
+dap an la: d. ngăn cản sự lưu thông của dòng điện để xác định mức dòng và áp trong mạch
+20
+Khi muốn lấy được một điện áp nhỏ từ điện áp một chiều lớn hơn thì người ta cần làm gì ?
+dap an la: a. mắc thêm một điện trở nối tiếp với đoạn mạch ban đầu

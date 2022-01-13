@@ -1,0 +1,26 @@
+2
+Tính chất dẫn điện của bán dẫn loại N là do .... quyết định.
+dap an la: a. điện tử
+4
+Nguyên tắc hoạt động của biến áp dựa trên hiện tượng nào ?
+dap an la: C. cảm ứng điện từ
+5
+Hình dưới đây biểu diễn linh kiện điện tử gì?
+dap an la: a. cuộn cảm
+6
+Chọn phát biểu sai trong các phát biểu sau:
+Tụ điện được sử dụng trong các mạch .............
+dap an la: b. biến đổi giá trị dòng điện, điện áp một chiều
+15
+Nguyên tắc hoạt động của biến áp dựa trên hiện tượng nào ?
+dap an la: A. cảm ứng điện từ
+16
+Dung kháng là gì ? được tính bằng công thức nào ?
+dap an la: a. Dung kháng là đại lượng biểu thị sự cản trở dòng của tụ điện và được tính theo công thức XC = 1/jwC
+17
+Người ta thường chế tạo điện trở có giá trị bao nhiêu ?
+dap an la: b. theo chuẩn E6, E12, E24 ... với các giá trị xác định và bội số của chúng
+18
+Chọn đáp án ĐÚNG NHẤT
+Khi cần chia dòng / điện áp xoay chiều người ta có thể sử dụng loại linh kiện nào ?
+dap an la: c. điện trở, tụ điện, cuộn dây, biến áp

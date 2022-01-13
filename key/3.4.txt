@@ -1,0 +1,36 @@
+1
+Linh kiện nào sau đây có thể làm việc ở cả hai chế độ nghèo hạt dẫn và giàu hạt dẫn ?
+dap an la: a. DMOSFET
+2
+Hãy cho biết trong sơ đồ mắc BJT theo kiểu Emito chung thì đưa tín hiệu vào và lấy tín hiệu ra như thế nào ?
+dap an la: d. tín hiệu vào giữa B và E; lấy ra giữa C và E
+3
+Chọn phát biểu đúng nhất trong các phát biểu sau:
+Transistor có thể hoạt động như các phần tử ........
+dap an la: b. chỉnh lưu, khuếch đại, khóa điện tử
+4
+Hãy cho biết biểu thức dưới đây biểu diễn cách tính thông số nào ?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+dap an la: b. dòng cực máng của EMOSFET
+13
+Khi cần thiết kế mạch khuếch đại có công suất nhỏ, tần số thấp, người ta nên chọn loại linh kiện nào sau đây ?
+dap an la: b. BJT
+16
+Linh kiện nào sau đây chỉ hoạt động ở chế độ nghèo hạt dẫn?
+       
+dap an la: a. JFET
+19
+Khi muốn transistor BJT làm việc như một phần tử khuếch đại đơn người ta thường phân cực cho nó để điểm làm việc tĩnh nằm ở vị trí nào trên đường tải tĩnh ?
+dap an la: a. nằm giữa vùng tích cực

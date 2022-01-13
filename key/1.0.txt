@@ -1,0 +1,15 @@
+2
+Linh kiện thụ động là linh kiện có đặc điểm gì ?
+dap an la: b. không cần nguồn cung cấp năng lượng riêng để hoạt động đúng chức năng của mình
+10
+Hình dưới đây biểu diễn linh kiện điện tử gì?
+dap an la: c. cuộn cảm
+12
+Tụ điện có trở kháng tỉ lệ như thế nào với tần số của dòng điện qua nó ?
+dap an la: b. tỉ lệ nghịch
+15
+Ở nhiệt độ phòng, độ dẫn điện của chất bán dẫn pha tạp nồng độ cao như thế nào so với chất dẫn điện thông thường ?
+dap an la: d. dẫn điện tốt hơn
+16
+Trong kỹ thuật điện tử, biến áp thường được sử dụng để làm gì ?
+dap an la: c. phối hợp trở kháng

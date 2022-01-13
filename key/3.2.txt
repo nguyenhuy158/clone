@@ -1,0 +1,26 @@
+3
+Trong mạch khuếch đại emito chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: c. bazo và colecto
+4
+Hãy cho biết cách đưa tín hiệu vào và lấy tín hiệu ra trong sơ đồ mắc BJT kiểu Bazo chung
+dap an la: c. tín hiệu vào giữa B và E; lấy ra giữa C và B
+9
+Biểu thức dưới đây mô tả hàm truyền đạt của loại linh kiện điện tử nào?
+I
+C
+=β
+I
+B
+dap an la: d. BJT
+11
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+dap an la: d. mạch khuếch đại mắc kiểu emito chung
+13
+Hãy cho biết trong sơ đồ mắc BJT theo kiểu Emito chung thì đưa tín hiệu vào và lấy tín hiệu ra như thế nào ?
+dap an la: b. tín hiệu vào giữa B và E; lấy ra giữa C và E
+17
+Muốn transistor làm việc như một phần tử khuếch đại người ta thường chọn điểm làm việc tĩnh ở giữa đường tải tĩnh để làm gì ?
+dap an la: a. tín hiệu ra có biên độ lớn nhất mà không bị méo dạng
+18
+Khi FET dẫn dòng thì hạt dẫn sẽ xuất phát từ ...... đến .........
+dap an la: b. cực nguồn ... cực máng dưới sự điều khiển của điện áp VGS

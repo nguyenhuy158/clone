@@ -1,0 +1,21 @@
+3
+Hãy kể tên một số loại vật liệu cách điện
+dap an la: a. Gốm, mica, giấy, len khô
+5
+Hãy cho biết tụ điện trong mạch dưới đây là loại tụ gì và có nhiệm vụ gì ?
+dap an la: c. tụ hóa có tác dụng san phẳng điện áp
+7
+Thông số cơ bản của điện trở là những thông số nào ?
+dap an la: a. giá trị điện trở, dung sai, công suất tiêu tán, hệ số nhiệt
+8
+Hình dưới đây mô tả cấu tạo của loại linh kiện nào ?
+dap an la: b. BJT loại NPN
+18
+Hiện tượng pinch-off trong JFET xảy ra khi nào?
+dap an la: b. dòng cực máng bão hòa và Vgs=0
+19
+Khi FET dẫn dòng thì hạt dẫn sẽ xuất phát từ ...... đến .........
+dap an la: d. cực nguồn ... cực máng dưới sự điều khiển của điện áp VGS
+20
+Khi transistor hoạt động như một khoá điện tử thì điểm làm việc của mạch ở miền nào?
+dap an la: d. miền ngắt chuyển sang miền bão hoà và ngược lại

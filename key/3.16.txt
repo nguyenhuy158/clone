@@ -1,0 +1,47 @@
+2
+Khi transistor hoạt động như một khoá điện tử thì điểm làm việc của mạch ở miền nào?
+dap an la: a. miền ngắt chuyển sang miền bão hoà và ngược lại
+3
+Hình dưới đây biểu diễn điều gì?
+dap an la: a. đặc tuyến truyền đạt và họ đặc tuyến ra của D-MOSFET
+4
+Hãy cho biết nếu BJT được mắc theo kiểu Colecto chung thì đưa tín hiệu vào và lấy tín hiệu ra như thế nào ?
+dap an la: a. tín hiệu vào giữa B và C; lấy ra giữa E và C
+5
+Mạch dưới đây có hệ số khuếch đại thay đổi như thế nào so với khi không có tải?
+dap an la: c. Giảm
+8
+Hãy cho biết trong sơ đồ mắc BJT theo kiểu Emito chung thì đưa tín hiệu vào và lấy tín hiệu ra như thế nào ?
+dap an la: d. tín hiệu vào giữa B và E; lấy ra giữa C và E
+9
+Hình dưới đây mô tả một JFET đang hoạt động, giả sử điện áp VDS cố định hãy cho biết dòng cực máng ID có đặc điểm gì ?
+dap an la: b. được điều khiển bởi điện áp VGS
+10
+Chọn phát biểu ĐÚNG NHẤT trong các đáp án.
+Chế độ hoạt động của transistor BJT phụ thuộc vào điều gì sau đây ?
+dap an la: d. trạng thái phân cực của 2 chuyển tiếp P-N
+11
+Hãy cho biết ý nghĩa của việc xác định vị trí của điểm làm việc tĩnh của transistor trên đường tải tĩnh ?
+dap an la: a. để xác định chế độ làm việc của transistor
+13
+Transistor thường được sử dụng trong các mạch nào sau đây?
+dap an la: e. khoá điện tử
+15
+Hình dưới đây biểu thị trạng thái hoạt động của một BJT, hãy cho biết nó hoạt động như phần tử nào ?
+dap an la: b. khóa điện tử mở
+16
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: a.  Sơ đồ tương đương AC của mạch Collector chung
+17
+Linh kiện nào sau đây chỉ hoạt động ở chế độ nghèo hạt dẫn?
+       
+dap an la: d. JFET
+18
+Mạch khuếch đại đơn nên được phân cực DC sao cho điểm làm việc tĩnh nằm ở đâu?
+                                    
+dap an la: d. giữa đường tải tĩnh
+20
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: c. Sơ đồ tương đương AC của mạch Drain chung

@@ -1,0 +1,41 @@
+1
+Hình dưới đây mô tả cấu tạo của loại linh kiện nào ?
+dap an la: a. JFET kênh N
+2
+Hãy đọc tên các linh kiện điện tử được biểu diễn trong hình sau theo thứ tự từ trái qua phải
+             
+dap an la: b. điện trở carbon, tụ mica, điện trở SMD, tụ màng mỏng, biến trở
+5
+Cho điện trở có vòng màu như sau, hãy xác định giá trị của điện trở
+dap an la: d. 470 Ohm 10%
+7
+Hãy cho biết mạch dưới đây là mạch khuếch đại ghép tầng kiểu gì?
+dap an la: b. dùng tụ điện
+8
+Hãy cho biết trong sơ đồ mắc BJT theo kiểu Emito chung thì đưa tín hiệu vào và lấy tín hiệu ra như thế nào ?
+dap an la: b. tín hiệu vào giữa B và E; lấy ra giữa C và E
+10
+Hãy cho biết trong sơ đồ mắc BJT theo kiểu Emito chung thì đưa tín hiệu vào và lấy tín hiệu ra như thế nào ?
+dap an la: d. tín hiệu vào giữa B và E; lấy ra giữa C và E
+12
+Hãy cho biết biểu thức dưới đây biểu diễn cách tính thông số nào ?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+dap an la: c. dòng cực máng của EMOSFET
+14
+Linh kiện nào sau đây có thể làm việc ở cả hai chế độ nghèo hạt dẫn và giàu hạt dẫn ?
+dap an la: d. DMOSFET
+15
+Transistor thường được sử dụng trong các mạch nào sau đây?
+dap an la: f. khuếch đại 

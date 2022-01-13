@@ -1,0 +1,32 @@
+1
+Chất bán dẫn loại N là chất bán dẫn có hạt dẫn đa số là ....... còn hạt dẫn thiểu số là .......
+dap an la: d. điện tử ........ lỗ trống
+4
+Cho điện trở có vòng màu như sau, hãy xác định giá trị của điện trở
+dap an la: a. 1 KOhm 5%
+13
+Hãy cho biết biểu thức dưới đây biểu diễn cách tính thông số nào ?
+I
+D
+=
+k
+n
+(
+V
+GS
+−
+V
+th
+)
+2
+dap an la: d. dòng cực máng của EMOSFET
+16
+Hình dưới đây mô tả một JFET đang hoạt động, giả sử điện áp VDS cố định hãy cho biết dòng cực máng ID có đặc điểm gì ?
+dap an la: c. được điều khiển bởi điện áp VGS
+19
+Linh kiện nào sau đây chỉ hoạt động ở chế độ nghèo hạt dẫn?
+       
+dap an la: a. JFET
+20
+Hãy cho biết hình dưới đây biểu diễn cấu tạo của linh kiện nào ?
+dap an la: d. EMOSFET

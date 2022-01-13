@@ -1,0 +1,28 @@
+1
+Sơ đồ dưới đây biểu diễn mạch nào ? 
+dap an la: d. mạch ghép tầng kiểu RC
+3
+Transistor BJT hoạt động như một khóa điện tử đóng khi trạng thái phân cực của chuyển tiếp emito và chuyển tiếp colecto như thế nào ?
+dap an la: b. thuận / thuận
+5
+Một mạch cấp nguồn cho transistor như hình dưới đây. Hãy cho biết khi đó sơ đồ tương đương của nó như thế nào?
+dap an la: c.
+7
+Trong mạch khuếch đại bazo chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: c. emito và colecto
+8
+Hãy cho biết linh kiện có cấu tạo như hình vẽ dưới đây là loại linh kiện nào ?
+dap an la: d. JFET kênh N
+12
+Trong mạch khuếch đại emito chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: a. bazo và colecto
+14
+Transistor thường được sử dụng trong các mạch nào sau đây?
+dap an la: e. khoá điện tử
+16
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: d. Sơ đồ tương đương AC của mạch Drain chung
+19
+Hãy cho biết hình dưới đây biểu diễn cấu tạo của linh kiện nào ?
+dap an la: c. JFET

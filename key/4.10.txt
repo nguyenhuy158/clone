@@ -1,0 +1,18 @@
+2
+Hình dưới đây mô tả cấu tạo của loại linh kiện nào ?
+dap an la: e. JFET kênh P
+10
+Khi cần thiết kế mạch khuếch đại có công suất lớn, tần số cao, người ta nên chọn linh kiện nào sau đây ?
+dap an la: a. FET
+11
+Khi  đặt điện áp giữa cực máng D và cực nguồn S nhưng cực cửa G để hở thì kênh dẫn (dòng cực máng) cũng không xuất hiện trong các linh kiện nào  ?
+       
+dap an la: B. E-MOSFET
+16
+Mạch khuếch đại công suất có điểm làm việc tĩnh ở vùng ngắt, tín hiệu đầu vào lớn thì gọi là hoạt động ở chế độ ....
+dap an la: a. B
+19
+Cho tín hiệu vào một mạch khuếch đại có dạng như hình vẽ:
+
+mạch khuếch đại hoạt động ở chế độ C thì tín hiệu đầu ra có dạng nào ?
+dap an la: c.

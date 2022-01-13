@@ -1,0 +1,40 @@
+1
+Khi có 2 mạch điện cần nối với nhau, nếu muốn chỉ có tín hiệu xoay chiều từ mạch trước được đưa sang mạch sau thì nên làm thế nào ?
+dap an la: b. dẫn tín hiệu qua tụ điện hoặc biến áp
+3
+Trong các linh kiện điện tử sau đây, loại nào có trở kháng phụ thuộc vào tần số ?
+dap an la: a. cuộn dây, tụ điện, transistor
+5
+Ở nhiệt độ phòng, chất bán dẫn thuần giống như.....còn chất bán dẫn pha tạp giống như.....
+dap an la: c. chất dẫn điện kém.....chất dẫn điện tốt
+6
+Khi muốn lấy được một điện áp nhỏ từ điện áp một chiều lớn hơn thì người ta cần làm gì ?
+dap an la: c. mắc thêm một điện trở nối tiếp với đoạn mạch ban đầu
+8
+Ở điều kiện nhiệt độ phòng, chất bán dẫn có khả năng nào sau đây ?
+dap an la: d. dẫn điện như một chất dẫn điện tốt
+10
+Trong kỹ thuật điện tử, vật liệu bán dẫn thường được ứng dụng làm gì ?
+dap an la: a. linh kiện tích cực, vi mạch
+11
+Khi có 2 mạch điện cần nối với nhau, nếu muốn chỉ có tín hiệu xoay chiều từ mạch trước được đưa sang mạch sau thì nên làm thế nào ?
+dap an la: a. dẫn tín hiệu qua tụ điện hoặc biến áp
+13
+Trong sơ đồ sau, tụ điện đang được ....... và thời gian thực hiện quá trình này phụ thuộc vào ......
+dap an la: d. ......... nạp điện ....... giá trị của điện trở và điện dung của tụ
+15
+Trên thân của một điện trở than có các vòng màu lần lượt là Vàng, Tím, Đỏ, Bạc kim. Hãy cho biết thông số của điện trở này
+dap an la: c. 4700 Ohm +/- 10%
+16
+Điện trở có cấu tạo được mô tả như trong hình dưới đây là loại nào ?
+dap an la: d. điện trở dây quấn
+18
+Người ta thường chế tạo điện trở có giá trị bao nhiêu ?
+dap an la: a. theo chuẩn E6, E12, E24 ... với các giá trị xác định và bội số của chúng
+19
+Phát biểu sau ĐÚNG hay SAI ?
+Có thể tìm được điện trở được sản xuất với bất kỳ giá trị nào.
+dap an la: b. sai
+20
+Có thể điều khiển độ dẫn điện của chất bán dẫn bằng các dạng năng lượng nào ?
+dap an la: c. điện năng, quang năng và nhiệt năng

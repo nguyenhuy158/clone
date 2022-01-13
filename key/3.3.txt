@@ -1,0 +1,34 @@
+5
+Hãy cho biết mạch dưới đây gọi là mạch gì?
+dap an la: c. khuếch đại vi sai
+7
+Transistor BJT hoạt động như phần tử khuếch đại nếu trạng thái phân cực của chuyển tiếp emito và chuyển tiếp colecto là như thế nào ?
+dap an la: d. thuận / ngược
+8
+Hãy cho biết cách đưa tín hiệu vào và lấy tín hiệu ra trong sơ đồ mắc BJT kiểu Bazo chung
+dap an la: b. tín hiệu vào giữa B và E; lấy ra giữa C và B
+9
+Pha của tín hiệu điện áp vào và tín hiệu điện áp ra của sơ đồ mắc nào đảo pha nhau?
+dap an la: a. Emitter chung
+11
+Hãy cho biết sơ đồ tương đương AC tín hiệu nhỏ, tần số thấp dưới đây thường được sử dụng cho kiểu mắc transistor nào?
+                                    
+dap an la: a. Base chung
+12
+Hãy cho biết mạch dưới đây là mạch khuếch đại ghép tầng kiểu gì?
+dap an la: a. Cascode
+13
+Hiện tượng pinch-off trong JFET xảy ra khi nào?
+dap an la: b. dòng cực máng bão hòa và Vgs=0
+14
+Hãy cho biết linh kiện có cấu tạo như hình vẽ dưới đây là loại linh kiện nào ?
+dap an la: b. JFET kênh N
+16
+Hãy cho biết linh kiện có cấu tạo như hình dưới đây là linh kiện nào ?
+dap an la: c. DMOSFET
+19
+Khi BJT thuận (PNP) dẫn dòng thì loại hạt dẫn chính tạo nên dòng điện IC là loại hạt dẫn nào ?
+dap an la: c. lỗ trống
+20
+Hình dưới đây biểu diễn điều gì?
+dap an la: c. đặc tuyến truyền đạt và họ đặc tuyến ra của D-MOSFET

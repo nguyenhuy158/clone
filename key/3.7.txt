@@ -1,0 +1,40 @@
+6
+Linh kiện nào sau đây có thể làm việc ở cả hai chế độ nghèo hạt dẫn và giàu hạt dẫn ?
+dap an la: c. DMOSFET
+7
+Biểu thức dưới đây mô tả hàm truyền đạt của loại linh kiện điện tử nào?
+I
+C
+=β
+I
+B
+dap an la: a. BJT
+8
+Khi muốn transistor BJT làm việc như một phần tử khuếch đại đơn người ta thường phân cực cho nó để điểm làm việc tĩnh nằm ở vị trí nào trên đường tải tĩnh ?
+dap an la: c. nằm giữa vùng tích cực
+9
+Trong mạch khuếch đại colecto chung, tín hiệu vào được đưa vào và lấy ra trên các cực nào ?
+dap an la: b. bazo và emito
+10
+Hãy cho biết mạch dưới đây là mạch khuếch đại ghép tầng kiểu gì?
+dap an la: b. Cascode
+11
+Hãy cho biết mạch dưới đây gọi là mạch gì?
+dap an la: d. khuếch đại vi sai
+12
+Hãy cho biết mạch dưới đây là mạch khuếch đại ghép tầng kiểu gì?
+dap an la: d. dùng tụ điện
+14
+Khi cần thiết kế mạch khuếch đại có công suất lớn, tần số cao, người ta nên chọn linh kiện nào sau đây ?
+dap an la: c. FET
+15
+Hiện tượng ngắt kênh dẫn trong FET xảy ra khi nào ?
+dap an la: d. dòng cực máng biến mất (bằng 0) khi điện áp 
+V
+GS
+=
+V
+P
+18
+Transistor hiệu ứng trường (FET) là linh kiện loại nào và được điều khiển bằng gì ?
+dap an la: b. linh kiện tích cực, điều khiển bằng điện áp

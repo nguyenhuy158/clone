@@ -1,0 +1,21 @@
+1
+Chất bán dẫn loại N là chất bán dẫn được hình thành bằng cách pha tạp chất thuộc nhóm mấy vào bán dẫn thuần ?
+dap an la: a. V
+3
+Hãy cho biết điện trở dưới đây có giá trị bao nhiêu ?
+dap an la: b. 100 KOhm
+4
+Điện trở có cấu trúc được biểu diễn như hình dưới đây là loại điện trở nào ?
+dap an la: d. điện trở than
+8
+JFET có chế độ làm việc tương tự với linh kiện nào sau đây ?
+dap an la: a. DMOSFET
+10
+Trong mạch điện tử, các linh kiện nào sau đây có thể sử dụng để khuếch đại tín hiệu ?
+dap an la: a. Transistor
+13
+Transistor hiệu ứng trường (FET) là linh kiện loại nào và được điều khiển bằng gì ?
+dap an la: a. linh kiện tích cực, điều khiển bằng điện áp
+15
+Hãy cho biết linh kiện có cấu tạo như hình vẽ dưới đây là loại linh kiện nào ?
+dap an la: a. JFET kênh N

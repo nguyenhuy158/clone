@@ -1,0 +1,36 @@
+3
+Mạch khuếch đại sẽ tạo ra năng lượng trên tải có quy luật biến thiên theo ...
+dap an la: a. nguồn tín hiệu ac.
+5
+Pha của tín hiệu điện áp vào và tín hiệu điện áp ra của sơ đồ mắc nào đảo pha nhau?
+dap an la: a. Emitter chung
+6
+Khi cần thiết kế mạch khuếch đại có công suất lớn, tần số cao, người ta nên chọn linh kiện nào sau đây ?
+dap an la: d. FET
+7
+Dòng điện trong transistor BJT do loại hạt dẫn nào tạo nên ?
+dap an la: b. điện tử và lỗ trống
+8
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: c. Sơ đồ tương đương AC của mạch cực cửa chung
+10
+Hình vẽ dưới đây biểu diễn mạch nào?
+                                    
+dap an la: a. Sơ đồ tương đương AC của mạch CE
+11
+Transistor lưỡng cực (BJT) là linh kiện loại nào và được điều khiển bằng gì ?
+dap an la: c. linh kiện tích cực, điều khiển bằng dòng điện
+12
+Hãy cho biết mạch dưới đây là mạch khuếch đại ghép tầng kiểu gì?
+dap an la: b. Cascode
+14
+Trong mạch điện tử, các linh kiện nào sau đây có thể sử dụng để khuếch đại tín hiệu ?
+dap an la: d. Tụ điện
+17
+Linh kiện nào sau đây chỉ hoạt động ở chế độ giàu hạt dẫn?
+       
+dap an la: b. E-MOSFET
+20
+Khi BJT dẫn dòng thì hạt dẫn xuất phát từ ..... đến ........
+dap an la: d. cực emito ...... colecto
