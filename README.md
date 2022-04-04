@@ -1,3 +1,3 @@
 # CLONE
 
-## clone is aaa
+## clone is a python code
